@@ -1,0 +1,13 @@
+### Problem
+>People need an identifiable spatial unit to belong to.
+
+### Solution
+>Help people to define the neighborhoods they live in, not more than 300 yards across, with no more than 400 or 500 inhabitants. In existing cities, encourage local groups to organize themselves to form such neighborhoods. Give the neighborhoods some degree of autonomy as far as taxes and land controls are concerned. Keep major roads outside these neighborhoods.
+
+### Related Patterns
+... the [[Mosaic of Subcultures (8)]] and the [[Community of 7000 (12)]] are made up of neighbourhoods. This pattern defines the neighbourhoods. It defines those small human groups which create the energy and character which can bring the larger [[Community of 7000 (12)]] and the [[Mosaic of Subcultures (8)]] to life.
+
+Mark the neighbourhood, above all, by gateways wherever main paths enter it -- [[Main Gateways (53)]] -- and by modest boundaries of non-residential land between the neighbourhoods -- [[Neighborhood Boundary (15)]]. Keep major roads within these boundaries perhaps a common or a green -- [[Accessible Green (60)]] -- or a [[Small Public Squares (61)]]; and arrange houses and workshops within the neighbourhood in clusters of about a dozen at a time -- [[House Cluster (37)]], [[Work Community (41)]] ...
+
+---
+Reference for full-text of Pattern: p. 80 #high-confidence 
