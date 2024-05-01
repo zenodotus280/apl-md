@@ -72,9 +72,9 @@ Alexander's approach emphasizes the importance of context-sensitive design and t
 
 I'd like to say that I wrote some clever site scraper and then algorithmically generated everything but the real answer is that it was mostly done by hand with a template for the pattern structure, the help of Obsidian's auto-complete combined with a keyboard macro to convert (and correct) the links, and *many dozens of hours* typing, copy-pasting, and tweaking. I reference these patterns directly in my Obsidian vault. I began in 2020 but I didn't work on it in earnest until November of 2023 with a final push in April of 2024.
 
-The "master" version is my Obsidian vault. I have a custom Fish function (`apl-copy`) using `rsync` to copy from my vault to the Markdown repo that contains the patterns (and list of patterns), the README, and the LICENSE as markdown files. The Quartz repo has a "content" folder that simply symlinks to this markdown folder for a source directory so that a change in one is reflected automatically in the other. I could copy to both folders from my vault but a symlink seems more appropriate despite the total size being <500 KB.
+The "master" version is my Obsidian vault. I have a custom Fish function (`apl-copy`) using `rsync` to copy from my vault to the Markdown repo that contains the patterns (and list of patterns), the README, and the LICENSE as markdown files.
 
-I have another custom Fish shell function (`apl-preview`) to build and serve the website locally and then a third function (`apl-deploy`) to push the changes so that GitHub Actions can take over from there. These custom functions save me from the hassle of remembering which commands to use and in which directory.
+I have another custom Fish shell function (`apl-preview`) to copy the patterns to the 'content' directory in the Quartz repo then build and serve the website locally. A third function (`apl-deploy`) pushes the changes so that GitHub Actions can take over from there. These custom functions save me from the hassle of remembering which commands to use and in which directory.
 
 ## TODO
 > [!todo]
