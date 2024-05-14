@@ -12,4 +12,8 @@
 Within each natural preserve, we imagine a limited number of houses -- [[House Cluster (37)]] -- with access on unpaved country lanes -- [[Green Streets (51)]] ...
 
 ---
-Reference for full-text of Pattern: p. 36 #medium-confidence
+
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 36.
+> #medium-confidence 
+> 
+> #APL/Towns/Regional-Policies

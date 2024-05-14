@@ -10,4 +10,8 @@
 Whenever land is hilly, keep the country fingers in the valleys and the city fingers on the upper slopes of the hillsides -- [[Agricultural Valleys (4)]]. Break the city fingers into hundreds of distinct self-governing subcultures -- [[Mosaic of Subcultures (8)]], and run the major roads and railways down the middle of these fingers -- [[Web of Public Transport (16)]], [[Ring Roads (17)]] ...
 
 ---
-Reference for full-text of Pattern: p. 21 #high-confidence
+
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 21.
+> #high-confidence 
+> 
+> #APL/Towns/Regional-Policies

@@ -9,7 +9,11 @@
 ### Related Patterns
 ... consider now the character of settlements within the region: what balance of villages, towns, cities is in keeping with the independence of the region -- [[Independent Regions (1)]]?
 
-As the distribution evolves, protect the prime agricultural land for farming --[[Agricultural Valleys (4)]]; protect the smaller outlying towns, by establishing belts of countryside around them and by decentralising industry, so that the towns are economically stable -- [[Country Towns (6)]]. In the larger more central urban areas work toward land policies which maintain open belts of countryside between the belts of city -- [[City Country Fingers (3)]] ...
+As the distribution evolves, protect the prime agricultural land for farming --[[Agricultural Valleys (4)]]; protect the smaller outlying towns, by establishing belts of countryside around them and by decentralizing industry, so that the towns are economically stable -- [[Country Towns (6)]]. In the larger more central urban areas work toward land policies which maintain open belts of countryside between the belts of city -- [[City Country Fingers (3)]] ...
 
 ---
-Reference for full-text of Pattern: p. 16 #low-confidence
+
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 16.
+> #low-confidence 
+> 
+> #APL/Towns/Regional-Policies
