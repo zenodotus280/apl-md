@@ -10,4 +10,8 @@
 To keep main roads for long distance traffic, but not for internal local traffic, lay them out as they parallel one way roads, and keep these parallel roads away from the center of the area, so that they are very good for getting to the ring roads, but inconvenient for short local trips -- [[Parallel Roads (23)]]. Lay out abundant footpaths and bike paths and green streets at right angles to the main roads, and make these paths for local traffic go directly through the center -- [[Green Streets (51)]], [[Network of Paths and Cars (52)]], [[Bike Paths and Racks (56)]]; sink the ring roads around the outside of each area, or shield the noise they make some other way -- [[Ring Roads (17)]]; keep parking to a minimum within the area, and keep all major parking garages near the ring roads -- [[Nine Per Cent Parking (22)]], [[Shielded Parking (97)]]; and build a major interchange within the center of the area -- [[Interchange (34)]] ...
 
 ---
-Reference for full-text of Pattern: p. 63 #high-confidence
+
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 63
+> #high-confidence 
+> 
+> #APL/Towns/City-Policies

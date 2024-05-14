@@ -7,7 +7,11 @@
 ### Related Patterns
 ... the most basic structure of a city is given by the relation of urban land to open country -- [[City Country Fingers (3)]]. Within the swaths of urban land the most important structure must from from the great variety of human groups and subcultures which can co-exist there.
 
-We imagine that the smallest subcultures will be no bigger than 150 feet across; the largest perhaps as much as a quarter of a mile -- [[Community of 7000 (12)]], [[Identifiable Neighborhood (14)]], [[House Cluster (37)]]. To ensure that the life cycles of each subculture can develop freely, uninhibited by those which are adjacent, it is essential to create substantial boundaries of nonreidential land between adjacent subcultures -- [[Subculture Boundary (13)]] ...
+We imagine that the smallest subcultures will be no bigger than 150 feet across; the largest perhaps as much as a quarter of a mile -- [[Community of 7000 (12)]], [[Identifiable Neighborhood (14)]], [[House Cluster (37)]]. To ensure that the life cycles of each subculture can develop freely, uninhibited by those which are adjacent, it is essential to create substantial boundaries of nonresidential land between adjacent subcultures -- [[Subculture Boundary (13)]] ...
 
 ---
-Reference for full-text of Pattern: p. 42 #high-confidence
+
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 42
+> #high-confidence 
+> 
+> #APL/Towns/City-Policies
