@@ -1,5 +1,12 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R4DBTWO)
 
+**2024-05-14**
+
+- [Discussion on Hacker News!](https://news.ycombinator.com/item?id=40342008)
+- Welcoming typo corrections and other errata at the [markdown repo](https://github.com/zenodotus280/apl-md).
+
+---
+
 ## Preamble
 This project is an abridged, hyper-textual, and copyleft manifestation of the 1977 architecture classic *A Pattern Language* by Christopher Alexander. It is compiled from markdown into a static website using [Quartz](https://quartz.jzhao.xyz/). I created it to serve as both an accessible reference for myself and as a way to share the ideas with others.
 
