@@ -25,4 +25,8 @@ We estimate, that under the impact of this rule, a web of shopping with the foll
 ``
 
 ---
-Reference for full-text of Pattern: p. 104 #medium-confidence 
+
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 104
+> #medium-confidence 
+> 
+> #APL/Towns/Community-Networking 

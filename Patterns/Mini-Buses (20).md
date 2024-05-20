@@ -10,4 +10,8 @@
 Place the stops mainly along major roads, as far as this can be consistent with the fact that no one ever has to walk more than 600 feet to the nearest one -- [[Parallel Roads (23)]]; put one in every [[Interchange (34)]]; and make each one a place where a few minutes' wait is pleasant -- [[Bus Stop (92)]] ...
 
 ---
-Reference for full-text of Pattern: p. 110 #medium-confidence
+
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 110
+> #medium-confidence 
+> 
+> #APL/Towns/Community-Networking 

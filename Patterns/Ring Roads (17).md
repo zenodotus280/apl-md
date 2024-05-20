@@ -13,4 +13,8 @@
 Always place the high speed roads on boundaries between subcultures -- [[Subculture Boundary (13)]] and never along the waterfronts -- [[Access to Water (25)]]. Place industry and big parking garages next to the roads, and use them, whenever possible, as extra noise shields -- [[Industrial Ribbon (42)]], [[Shielded Parking (97)]] ...
 
 ---
-Reference for full-text of Pattern: p. 96 #low-confidence 
+
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 96
+> #low-confidence 
+> 
+> #APL/Towns/Community-Networking 
