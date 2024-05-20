@@ -10,4 +10,8 @@
 Mark the neighbourhood, above all, by gateways wherever main paths enter it -- [[Main Gateways (53)]] -- and by modest boundaries of non-residential land between the neighbourhoods -- [[Neighborhood Boundary (15)]]. Keep major roads within these boundaries perhaps a common or a green -- [[Accessible Green (60)]] -- or a [[Small Public Squares (61)]]; and arrange houses and workshops within the neighbourhood in clusters of about a dozen at a time -- [[House Cluster (37)]], [[Work Community (41)]] ...
 
 ---
-Reference for full-text of Pattern: p. 80 #high-confidence 
+
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 80
+> #high-confidence 
+> 
+> #APL/Towns/Communities 

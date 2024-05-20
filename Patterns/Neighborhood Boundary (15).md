@@ -10,4 +10,8 @@
 The easiest way of all to form a boundary around a neighborhood is by turning buildings inward, and by cutting off the paths which cross this boundary, except for one or two at special points which become gateways -- [[Main Gateways (53)]]; the public land of the boundary may include a park, collector roads, small parking lots, and work communities -- anything which forms a natural edge -- [[Parallel Roads (23)]], [[Work Community (41)]], [[Quiet Backs (59)]], [[Accessible Green (60)]], [[Shielded Parking (97)]], [[Small Parking Lots (103)]]. As for meeting places in the boundary, they can be any of those neighborhood functions which invite gathering: a park, a shared garage, an outdoor room, a shopping street, a playground -- [[Shopping Street (32)]], [[Pools and Streams (64)]], [[Public Outdoor Room (69)]], [[Grave Sites (70)]], [[Local Sports (72)]], [[Adventure Playground (73)]] ...
 
 ---
-Reference for full-text of Pattern: p. 86 #medium-confidence 
+
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 86
+> #medium-confidence 
+> 
+> #APL/Towns/Communities 
