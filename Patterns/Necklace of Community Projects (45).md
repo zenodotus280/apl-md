@@ -5,7 +5,7 @@
 >Allow the growth of shop-size spaces around the local town hall, and any other appropriate community building. Front these shops on a busy path, and lease them for a minimum rent to ad hoc community groups for political work, trial services, research, and advocate groups. No ideological restrictions.
 
 ### Related Patterns
-... [[Local Town Hall (44)]]calls for small centers of local government at the heart of every community. This pattern embellishes the local town hall and other public institutions like it -- [[University as a Marketplace (43)]] and [[Health Center (47)]] -- with a ground for community action.
+... [[Local Town Hall (44)]] calls for small centers of local government at the heart of every community. This pattern embellishes the local town hall and other public institutions like it -- [[University as a Marketplace (43)]] and [[Health Center (47)]] -- with a ground for community action.
 
 Make each shop small, compact, and easily accessible like [[Individually Owned Shops (87)]]; build small public spaces for loitering amongst them -- [[Public Outdoor Room (69)]]. Use them to form the building edge -- [[Building Fronts (122)]], [[Building Edge (160)]], and keep them open to the street -- [[Opening to the Street (165)]] ...
 
