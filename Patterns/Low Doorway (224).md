@@ -10,4 +10,5 @@
 Test the height before you build it, in place - [[Natural Doors and Windows (221)]]. Build the door frame as part of the structure - [[Frames as Thickened Edges (225)]], and make it beautiful with [[Ornament (249)]] around the frame. If there is a door, glaze it, at least partially - [[Solid Doors with Glass (237)]].
 
 ---
-Reference for full-text of Pattern: p. 1056 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1056.
+> #low-confidence 

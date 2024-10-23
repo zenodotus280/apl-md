@@ -10,4 +10,5 @@
 Dancing in the street, food stands, an outdoor room or two, a square where the theater is, and tents and canvas will all help to make it even livelier - [[Small Public Squares (61)]], [[Dancing in the Street (63)]], [[Public Outdoor Room (69)]], [[Food Stands (93)]], [[Pedestrian Street (100)]], [[Canvas Roofs (244)]] ... 
 
 ---
-Reference for full-text of Pattern: p. 298 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 298.
+> #low-confidence 

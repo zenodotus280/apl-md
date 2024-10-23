@@ -10,4 +10,5 @@
 For the view, give each workspace a window to the outside - [[Windows Overlooking Life (192)]]; surround the space with thick walls which contain shelves and storage space - [[Half-Open Wall (193)]], [[Thick Walls (197)]], [[Open Shelves (200)]], [[Waist-High Shelf (201)]]; arrange a pool of incandescent light over the work table to set it off - [[Pools of Light (252)]]; and try to make a sitting place, next to the workspace, so that the pulse of work, and talk can happen easily throughout the day - [[Sitting Circle (185)]]. For details on the shape of the workspace, see [[The Shape of Indoor Space (191)]] ...
 
 ---
-Reference for full-text of Pattern: p. 846 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 846.
+> #high-confidence 

@@ -10,4 +10,5 @@
 Build the porch according to the patterns for [[Arcades (119)]], [[Gallery Surround (166)]], and [[Six-Foot Balcony (167)]] ; make sure that it is in the sun - [[Sunny Place (161)]]; build the view out according to the [[Hierarchy of Open Space (114)]] and [[Zen View (134)]]; make the courtyard like an [[Outdoor Room (163)]] and a [[Garden Wall (173)]] for more enclosure; make the height of the eaves around any courtyard of even height; if there are gable ends, hip them to make the roof edge level - [[Roof Layout (209)]]; Put [[Something Roughly in the Middle (126)]] ...
 
 ---
-Reference for full-text of Pattern: p. 561 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 561.
+> #high-confidence 

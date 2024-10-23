@@ -10,4 +10,5 @@
 Add to the effect of dry composting by re-using waste water; run all water drains into the garden to irrigate the soil; use organic soap - [[Bathing Room (144)]] ...
 
 ---
-Reference for full-text of Pattern: p. 822 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 822.
+> #medium-confidence 

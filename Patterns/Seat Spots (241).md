@@ -11,4 +11,5 @@
 If these seats can be made continuous with stairs or building entrances or low walls or balustrades, so much the better - [[Stair Seats (125)]], [[Front Door Bench (242)]], [[Sitting Wall (243)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1118 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1118.
+> #high-confidence 

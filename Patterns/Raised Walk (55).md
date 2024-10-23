@@ -10,4 +10,5 @@
 Protect the raised walk from the road, by means of a low wall -- [[Sitting Wall (243)]]. An arcade built over the wall, will, with its columns, give an even greater sense of comfort and at special points where a car might pull in t pick up or drop off passengers, build steps into the raised walk, large enough so people can sit here and wait in comfort -- [[Stair Seats (125)]].
 
 ---
-Reference for full-text of Pattern: p. 285 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 285.
+> #medium-confidence 

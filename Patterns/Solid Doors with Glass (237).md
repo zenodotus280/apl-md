@@ -10,4 +10,5 @@
 Glaze the door with small panes of glass - [[Small Panes (239)]] and make the doors more solid, by building them like [[Wall Membranes (218)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1103 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1103.
+> #low-confidence 

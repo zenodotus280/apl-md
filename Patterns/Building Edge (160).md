@@ -10,4 +10,5 @@
 Do it with arcades, galleries, porches, and terraces [[Arcades (119)]], [[Outdoor Room (163)]] , [[Gallery Surround (166)]], [[Six-Foot Balcony (167)]], [[Connection to the Earth (168)]]; take special account of the sun - [[Sunny Place (161)]], [[North Face (162)]]; and put in seats and windows which complete the feeling of connection - [[Stair Seats (125)]], [[Street Windows (164)]], [[Seat Spots (241)]], [[Front Door Bench (242)]] ...
 
 ---
-Reference for full-text of Pattern: p. 752 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 752.
+> #high-confidence 

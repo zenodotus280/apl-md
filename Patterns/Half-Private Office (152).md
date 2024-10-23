@@ -10,4 +10,5 @@
 Shape each office in detail, according to [[The Shape of Indoor Space (191)]] give it windows on at least two sides - [[Light on Two Sides of Every Room (159)]]; make individual workspaces in the corners - [[Workspace Enclosure (183)]], looking out of windows - [[Windows Overlooking Life (192)]]; make the sitting area toward the door as comfortable as possible - [[Sitting Circle (185)]] ...
 
 ---
-Reference for full-text of Pattern: p. 717 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 717.
+> #low-confidence 

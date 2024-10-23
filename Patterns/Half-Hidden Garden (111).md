@@ -10,4 +10,5 @@
  If possible, use this pattern to influence the shape of house lots too, and make them as near double squares along the street as possible; build a partial wall around the garden, and locate the entrance to the house between the house and the garden, so that people in the garden can be private, yet still aware of the street, and aware of anybody coming up to the house - [[Main Entrance (110)]], [[Garden Wall (173)]]; allow the garden to grow wild [[Garden Growing Wild (172)]], and make the passage through, or alongside it, a major part of the transition between street and house - [[Entrance Transition (112)]]. Half-hidden gardens may be [[Courtyards Which Live (115)]], [[Roof Garden (118)]], or a [[Private Terrace on the Street (140)]] ...
 
 ---
-Reference for full-text of Pattern: p. 545 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 545.
+> #medium-confidence 

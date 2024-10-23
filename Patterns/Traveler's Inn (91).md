@@ -10,4 +10,5 @@
 The heart of the conviviality is the central area, where everyone can meet and talk and dance and drink - [[Common Areas at the Heart (129)]], [[Dancing in the Street (63)]], and [[Beer Hall (90)]]. Provide the opportunity for communal eating, not a restaurant, but common food around a common table - [[Communal Eating (147)]]; and, over and above the individual rooms there are at least some areas where people can lie down and sleep in public unafraid - [[Sleeping in Public (94)]], [[Communal Sleeping (186)]]. For the overall shape of the inn, its gardens, parking, and surroundings, begin with [[Building Complex (95)]] ...
 
 ---
-Reference for full-text of Pattern: p. 448 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 448.
+> #medium-confidence 

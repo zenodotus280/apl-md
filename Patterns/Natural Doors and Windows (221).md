@@ -12,4 +12,5 @@
 Fine tune the exact position of each edge, and mullion, and sill, according to your comfort in the room, and the view that the window looks onto - [[Low Sill (222)]], [[Deep Reveals (223)]]. As a result, each window will have a different size and shape, according to its position in the building. This means that it is obviously impossible to use standard windows and even impossible to make each window a simple multiple of standard panes. But it will still be possible to glaze each window, since the procedure for building the panes makes them divisions of the whole, instead of making up the whole as a multiple of standard panes - [[Small Panes (239)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1046 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1046.
+> #high-confidence 

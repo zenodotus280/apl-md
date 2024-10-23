@@ -10,4 +10,5 @@
 Do this by connecting several [[House Cluster (37) | House Clusters (37)]] with [[Green Streets (51)]] and safe paths. Place the local [[Children's Home (86)]] in this play space. Within the play space, make sure the children have access to mud, and plants, and animals, and water - [[Still Water (71)]], [[Animals (74)]]; set aside one area where there is all kinds of junk that they can use to make things - [[Adventure Playground (73)]] ...
 
 ---
-Reference for full-text of Pattern: p. 341 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 341.
+> #medium-confidence 

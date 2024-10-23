@@ -10,4 +10,5 @@
 Lead paths between the pockets of activity - [[Paths and Goals (120)]] - and shape the pockets themselves with arcades and seats, and sitting walls, and columns and trellises - [[Arcades (119)]], [[Outdoor Room (163)]], [[Trellised Walk (174)]], [[Seat Spots (241)]], [[Sitting Wall (243)]]; above all shape them with the fronts of buildings - [[Building Fronts (122)]]; and include, within the pockets, newsstands - [[Bus Stop (92)]], [[Food Stands (93)]], gardens, games, small shops, [[Street Cafe (88)]], and [[A Place to Wait (150)]] ...
 
 ---
-Reference for full-text of Pattern: p. 599 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 599.
+> #high-confidence 

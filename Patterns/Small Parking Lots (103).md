@@ -10,4 +10,5 @@
 Place entrances and exits of the parking lots in such a way that they fit naturally into the pattern of pedestrian movement and lead directly, without confusion, to the major entrances to individual buildings - [[Circulation Realms (98)]]. Shield even these quite modest parking lots with garden walls, and trees, and fences, so that they help to generate the space around them - [[Positive Outdoor Space (106)]], [[Tree Places (171)]], [[Garden Wall (173)]]] ...
 
 ---
-Reference for full-text of Pattern: p. 503 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 503.
+> #medium-confidence 

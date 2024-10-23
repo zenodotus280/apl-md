@@ -10,4 +10,5 @@
  As you already know, it is best to build the columns integral with [[Root Foundations (214)]] on the ground floor, or integral with the [[Floor-Ceiling Vaults (219)]] on upper floors, and to fill them in one continuous pour. Once the columns are in position, put in the [[Perimeter Beams (217)]], and fill the beams at the same time that you fill the upper part of the column. If the column is free standing, put in column braces or column capitals - [[Column Connections (227)]] - to brace the connection between the two. And make the columns especially thick, or build them in pairs, where they are free-standing, so that they form a [[Column Place (226)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1012 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1012.
+> #high-confidence 

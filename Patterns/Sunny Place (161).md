@@ -10,4 +10,5 @@
 Make the place itself as much as possible like a room - [[Private Terrace on the Street (140)]], [[Outdoor Room (163)]]; always at least six feet deep, no less - [[Six-Foot Balcony (167)]]; perhaps with foliage or a canvas to filter the light on hot days - [[Filtered Light (238)]], [[Trellised Walk (174)]], [[Canvas Roofs (244)]]. Put in seats according to [[Seat Spots (241)]] ...
 
 ---
-Reference for full-text of Pattern: p. 757 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 757.
+> #high-confidence 

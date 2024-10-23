@@ -10,4 +10,5 @@
 Treat the physical layout of the night life area exactly like any other [[Activity Nodes (30)]], except that *all* of its establishments are open at night. The evening establishments might include [[Local Town Hall (44)]], [[Carnival (58)]], [[Dancing in the Street (63)]], [[Street Cafe (88)]], [[Beer Hall (90)]], [[Traveler's Inn (91)]] ...
 
 ---
-Reference for full-text of Pattern: p. 179 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 179.
+> #medium-confidence 

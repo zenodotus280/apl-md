@@ -10,4 +10,5 @@
 Treat each individual shop as an identifiable unit of a larger [[Building Complex (95)]]; make at least some part of the shop part of the sidewalk, so that people walk through the shop as they are going down the street - [[Opening to the Street (165)]] ; and build the inside of the shop with all the goods as open and available as possible - [[The Shape of Indoor Space (191)]], [[Thick Walls (197)]], [[Open Shelves (200)]].
 
 ---
-Reference for full-text of Pattern: p. 432 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 432.
+> #high-confidence 

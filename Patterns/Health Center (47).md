@@ -10,4 +10,5 @@
 Make sure that, in spite of its position in a public area, each still has enough private territory for people to fell at home in it -- [[Your Own Home (79)]]. If there are several houses in one area, treat them as a cluster or as a row -- [[House Cluster (37)]], [[Row Houses (38)]] ...
 
 ---
-Reference for full-text of Pattern: p. 252 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 252.
+> #medium-confidence 

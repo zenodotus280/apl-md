@@ -10,4 +10,5 @@
 Get the exact shape of the cross section from [[Roof Vaults (220)]] ; use the space inside the top of the sloped roof for [[Bulk Storage (145)]]; where the roof comes down low, perhaps make it continuous with an [[Arcades (119)]] or [[Gallery Surround (166)]]. Build the roof flat, not sloped, only where people can get out to it to use it as a garden - [[Roof Garden (118)]]; where rooms are built into the roof, make windows in the roof - [[Dormer Windows (231)]] - If the building plan is complex, get the exact way that different sloped roofs meet from [[Roof Layout (209)]].
 
 ---
-Reference for full-text of Pattern: p. 569 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 569.
+> #high-confidence 

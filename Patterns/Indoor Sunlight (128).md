@@ -12,4 +12,5 @@
 When you can, open up these indoor sunny rooms to the outdoors, and build a sunny place and outdoor rooms directly outside - [[Sunny Place (161)]], [[Outdoor Room (163)]], [[Windows Which Open Wide (236)]]. Give the bedrooms eastern exposure - [[Sleeping to the East (138)]], and put storage and garages to the north - [[North Face (162)]]. Where there is a kitchen, try to put its work counter toward the sun - [[Sunny Counter (199)]]; perhaps do the same for any work bench or desk in a [[Home Workshop (157)]], [[Workspace Enclosure (183)]] ...
 
 ---
-Reference for full-text of Pattern: p. 614 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 614.
+> #medium-confidence 

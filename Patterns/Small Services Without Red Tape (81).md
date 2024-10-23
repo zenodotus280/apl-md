@@ -15,4 +15,5 @@
 Arrange these departments in space, according to the prescription of - [[Office Connections (82)]] and [[Building Complex (95)]]; if the public thoroughfare is indoors, make it a [[Building Thoroughfare (101)]], and make the fronts of the services visible as a [[Family of Entrances (102)]]; wherever the services are in any way connected to the political life of the community, mix them with ad hoc groups created by the citizens or users [[Necklace of Community Projects (45)]]; arrange the inside space of the department according to [[Flexible Office Space (146)]]; and provide rooms where people can team up in two's and three's - [[Small Work Groups (148)]] ...
 
 ---
-Reference for full-text of Pattern: p. 404 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 404.
+> #medium-confidence 

@@ -10,4 +10,5 @@
  The street absolutely will not work unless its total area is small enough to be well filled by the pedestrians in it - [[Pedestrian Density (123)]]. Make frequent entrances and open stairs along the street, instead of building indoor corridors, to bring the people out; and give these entrances a family resemblance so one sees them as a system - [[Family of Entrances (102)]], [[Open Stairs (158)]]; give people indoor and outdoor spaces which look on the street - [[Private Terrace on the Street (140)]], [[Street Windows (164)]], [[Opening to the Street (165)]], [[Gallery Surround (166)]], [[Six-Foot Balcony (167)]]; and shape the street to make a space of it - [[Arcades (119)]], [[Path Shape (121)]] ...
 
 ---
-Reference for full-text of Pattern: p. 488 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 488.
+> #high-confidence 

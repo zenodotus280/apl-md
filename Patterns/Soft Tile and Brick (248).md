@@ -11,4 +11,5 @@
 The soft pink color helps to create [[Warm Colors (250)]]. Before firing, you may want to give the tiles some [[Ornament (249)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1141 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1141.
+> #low-confidence 

@@ -10,4 +10,5 @@
 Make it low and self-contained if there is room for that - [[Alcoves (179)]] keep the sill low - [[Low Sill (222)]]; put in the exact positions of frames, and mullions, and seats after the window place is framed, according to the view outside - [[Built-in Seats (202)]], [[Natural Doors and Windows (221)]]. And set the window deep into the wall to soften light around the edges - [[Deep Reveals (223)]]. Under a sloping roof, use [[Dormer Windows (231)]] to make this pattern ...
 
 ---
-Reference for full-text of Pattern: p. 833 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 833.
+> #high-confidence 

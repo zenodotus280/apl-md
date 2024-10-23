@@ -10,4 +10,5 @@
 The bench may help to make the entrance visible - [[Main Entrance (110)]]; it can be part of a wall - [[Sitting Wall (243)]], with flowers in the sunshine next to it - [[Raised Flowers (245)]]. Place it with care, according to the rules given in [[Seat Spots (241)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1121 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1121.
+> #medium-confidence 

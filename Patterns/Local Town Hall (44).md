@@ -10,4 +10,5 @@
 Arrange the arena so that it forms the heart of the community crossroads; and make it small, so that a crowd can easily gather there -- [[Activity Nodes (30)]], [[Small Public Squares (61)]], [[Pedestrian Density (123)]]. Keep all the public services around this square as small as possible -- [[Small Services Without Red Tape (81)]]; and provide ample space for the community projects, in a ring around the building, so that they form the outer face of the town hall -- [[Necklace of Community Projects (45)]] ...
 
 ---
-Reference for full-text of Pattern: p. 236 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 236.
+> #medium-confidence 

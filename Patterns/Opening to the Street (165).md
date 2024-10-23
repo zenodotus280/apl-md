@@ -11,4 +11,5 @@
 Give the opening a boundary, when it is entirely open, with a low solid wall which people can sit on - [[Sitting Wall (243)]] ; and make an outdoor room out of the part of the path which runs past it - [[Path Shape (121)]], [[Outdoor Room (163)]] ... 
 
 ---
-Reference for full-text of Pattern: p. 773 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 773.
+> #medium-confidence 

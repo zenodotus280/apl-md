@@ -10,4 +10,5 @@
 The layout of the inner vaults is given in [[Floor and Ceiling Layout (210)]] and [[Floor-Ceiling Vaults (219)]]; the layout of the outer vaults which form the roof is given in [[Roof Layout (209)]] and [[Roof Vaults (220)]]. The layout of the stiffeners which make the walls is given in [[Final Column Distribution (213)]]; the layout of the thickening where walls meet walls is given by [[Columns at the Corners (212)]]; the thickening where walls meet vaults is given by [[Perimeter Beams (217)]]; the construction of the columns and the walls is given by [[Box Columns (216)]] and [[Wall Membranes (218)]]; the thickening of doors and window frames is given by [[Frames as Thickened Edges (225)]]; and the non- right-angled connection between columns and beams by [[Column Connections (227)]] ...
 
 ---
-Reference for full-text of Pattern: p. 946 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 946.
+> #medium-confidence 

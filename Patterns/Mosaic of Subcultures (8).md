@@ -10,7 +10,6 @@
 We imagine that the smallest subcultures will be no bigger than 150 feet across; the largest perhaps as much as a quarter of a mile -- [[Community of 7000 (12)]], [[Identifiable Neighborhood (14)]], [[House Cluster (37)]]. To ensure that the life cycles of each subculture can develop freely, uninhibited by those which are adjacent, it is essential to create substantial boundaries of nonresidential land between adjacent subcultures -- [[Subculture Boundary (13)]] ...
 
 ---
-
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 42
 > #high-confidence 
 > 

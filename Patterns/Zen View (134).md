@@ -11,4 +11,5 @@
 Put in the windows to complete the indirectness of the view - [[Natural Doors and Windows (221)]] place them to help the [[Tapestry of Light and Dark (135)]] and build a seat from which a person can enjoy the view - [[Window Place (180)]]. If the view must be visible from inside a room, make a special corner of the room which looks onto the view, so that the enjoyment of the view becomes a definite act in its own right ...
 
 ---
-Reference for full-text of Pattern: p. 641 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 641.
+> #medium-confidence 

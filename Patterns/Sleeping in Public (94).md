@@ -10,4 +10,5 @@
 Above all, put the places for sleeping along [[Building Edge (160)]] ; make seats there, and perhaps even a bed alcove or two in public might be a nice touch - [[Bed Alcove (188)]], [[Seat Spots (241)]]; but above all, it will hinge on the attitudes which people have - do anything you can to create trust, so that people feel no fear in going to sleep in public and so that other people feel no fear of people sleeping in the street.
 
 ---
-Reference for full-text of Pattern: p. 457 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 457.
+> #low-confidence 

@@ -10,4 +10,5 @@
 If you have an especially nice fruit tree, make a [[Tree Places (171)]] under it, with a [[Garden Seat (176)]], or arrange a path so the tree can provide a natural goal along the path - [[Paths and Goals (120)]] ...
 
 ---
-Reference for full-text of Pattern: p. 794 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 794.
+> #medium-confidence 

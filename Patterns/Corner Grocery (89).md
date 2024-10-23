@@ -10,4 +10,5 @@
 Prevent franchises and pass laws which prevent the emergence of those much larger groceries which swallow up the corner groceries - [[Individually Owned Shops (87)]]. Treat the inside of the shop as a room, lined with goods - [[The Shape of Indoor Space (191)]], [[Thick Walls (197)]], [[Open Shelves (200)]]; give it a clear and wide entrance so that everyone can see it - [[Main Entrance (110)]], [[Opening to the Street (165)]]. And for the shape of the grocery, as a small building or as part of a larger building, begin with [[Building Complex (95)]] ...
 
 ---
-Reference for full-text of Pattern: p. 440 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 440.
+> #medium-confidence 

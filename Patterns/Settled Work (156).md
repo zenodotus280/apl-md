@@ -10,4 +10,5 @@
 Arrange the workshop, physically, along the lines defined by [[Home Workshop (157)]], and make the workshop open to the street, a part of local street life - [[Private Terrace on the Street (140)]], [[Opening to the Street (165)]] ...
 
 ---
-Reference for full-text of Pattern: p. 733 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 733.
+> #medium-confidence 

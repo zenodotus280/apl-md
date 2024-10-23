@@ -10,7 +10,6 @@
 The scattered work itself can take a great variety of forms. It an occur in belts of industry, where it is essential for an indsutry to occupy an acre or more between subcultures -- [[Subculture Boundary (13)]], [[Industrial Ribbon (42)]]; it can occur in work communities, which are scattered among the enighbourhoods -- [[Neighborhood Boundary (15)]], [[Work Community (41)]]; and it can occur in individual workshops, right among the houses -- [[Home Workshop (157)]]. The size of each workshop is limited only by the nature of human groups and the process of self-governance. It is discussed in detail in [[Self-Governing Workshops and Offices (80)]].
 
 ---
-
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 51
 > #high-confidence 
 > 

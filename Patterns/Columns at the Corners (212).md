@@ -12,4 +12,5 @@ Once you have the columns for each floor on your vault plan, reconcile them from
 These columns will not only guide your mental image of the building, they will also guide construction: first put the columns and the column foundations in place; then, to make the frame complete, tie the columns together around each room with the perimeter beam - [[Root Foundations (214)]], [[Box Columns (216)]], [[Perimeter Beams (217)]]. Give special emphasis to all free-standing columns with the idea that when you build them, you will make them very thick - [[Column Place (226)]]
 
 ---
-Reference for full-text of Pattern: p. 989 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 989.
+> #high-confidence 

@@ -10,7 +10,6 @@
 Separate the communities from one another by means of substantial areas -- [[Subculture Boundary (13)]]; subdivide each community into 10 or 20 independent neighborhoods, each with a representative on the community council -- [[Identifiable Neighborhood (14)]]; provide a central place where people have a chance to come together -- [[Eccentric Nucleus (28)]], [[Promenade (31)]]; and in this central place provide a local town hall, as a focal point for the community's political activity -- [[Local Town Hall (44)]] ...
 
 ---
-
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 70
 > #medium-confidence 
 > 

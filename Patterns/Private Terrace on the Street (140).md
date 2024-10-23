@@ -10,4 +10,5 @@
 If possible, place the terrace in a position which is also congruent with natural contours - [[Terraced Slope (169)]]. The wall, if low enough, can be a [[Sitting Wall (243)]]; in other cases, where you want more privacy, you can build a full garden wall, with openings in it, almost like windows, which make the connection with the street - [[Garden Wall (173)]], [[Half-Open Wall (193)]]. In any case, surround the terrace with enough things to give it at least the partial feeling of a room - [[Outdoor Room (163)]] ...
 
 ---
-Reference for full-text of Pattern: p. 664 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 664.
+> #high-confidence 

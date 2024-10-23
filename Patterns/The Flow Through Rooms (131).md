@@ -10,4 +10,5 @@
 Whenever passages or corridors are unavoidable, make them wide and generous too; and try to place them on one side of the building, so that they can be filled with light - [[Short Passages (132)]]. Furnish them like rooms, with carpets, bookshelves, easy chairs and tables, filtered light, and do the same for [[Entrance Room (130)]] and [[Staircase as a Stage (133)]]. Always make sure that these rooms for movement have plenty of light in them and perhaps a view - [[Zen View (134)]], [[Tapestry of Light and Dark (135)]], and [[Light on Two Sides of Every Room (159)]]. Keep doors which open into rooms, or doors between rooms which create the flow through rooms, in the corners of the rooms - [[Corner Doors (196)]] ...
 
 ---
-Reference for full-text of Pattern: p. 627 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 627.
+> #low-confidence 

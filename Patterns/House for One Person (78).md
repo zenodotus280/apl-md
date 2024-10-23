@@ -10,4 +10,5 @@
 And again, make the house an individual piece of territory, with its own garden, no matter how small - [[Your Own Home (79)]]; make the main room essentially a kind of farmhouse kitchen - [[Farmhouse Kitchen (139)]], with alcoves opening off it for sitting, working, bathing, sleeping, dressing - [[Bathing Room (144)]], [[Window Place (180)]], [[Workspace Enclosure (183)]], [[Bed Alcove (188)]], [[Dressing Rooms (189)]]; if the house is meant for an old person, or for someone very young, shape it also according to the pattern for [[Old Age Cottage (155)]] or [[Teenager's Cottage (154)]] ...
 
 ---
-Reference for full-text of Pattern: p. 389 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 389.
+> #medium-confidence 

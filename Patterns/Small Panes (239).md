@@ -10,4 +10,5 @@
 In certain cases you may want to make the small panes even finer near the window edge, to filter the light around the upper edge of windows which stand out against the sky - [[Filtered Light (238)]]. As for the muntins, they can be made from the same materials as trim - [[Half-Inch Trim (240)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1108 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1108.
+> #high-confidence 

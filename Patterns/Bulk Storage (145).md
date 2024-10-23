@@ -10,4 +10,5 @@
 Put the storage in the apex of the roof if the roof has a steep pitch - [[Sheltering Roof (117)]]; if there is a sloping site, put it in a basement - [[Terraced Slope (169)]], [[Ground Floor Slab (215)]]; otherwise, put it in a shed which can perhaps be made into a cottage later - [[Rooms to Rent (153)]]. No matter whether it is an attic, cellar, or shed, it is usually good advice to follow [[North Face (162)]] and situate bulk storage to the north of the building, leaving the sunny, spaces for rooms and gardens ...
 
 ---
-Reference for full-text of Pattern: p. 687 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 687.
+> #low-confidence 

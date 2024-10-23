@@ -10,4 +10,5 @@
 Give that part of the entrance which sticks out into the street or garden a physical character which, as far as possible, make it one of the family of entrances along the street - [[Family of Entrances (102)]]; where it is appropriate, make it a porch - [[Gallery Surround (166)]]; and include a bench or seat, where people can watch the world go by or wait for someone - [[Front Door Bench (242)]]. As for the indoor part of the entrance room, above all, make sure that it is filled with light from two or even three sides, so that the first impression of the building is of light - [[Tapestry of Light and Dark (135)]], [[Light on Two Sides of Every Room (159)]]. Put windows in the door itself - [[Solid Doors with Glass (237)]]. Put in [[Built-in Seats (202)]] and make the room part of the [[Sequence of Sitting Spaces (142)]]; provide a [[Waist-High Shelf (201)]] for packages. And finally, for the overall shape of the entrance room and its construction, begin with [[The Shape of Indoor Space (191)]].
 
 ---
-Reference for full-text of Pattern: p. 622 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 622.
+> #high-confidence 

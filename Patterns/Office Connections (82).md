@@ -8,4 +8,5 @@
 ... in any work community or any office, there are always various human groups - and it is always important to decide how these groups shall be placed, in space. Which should be near each other, which ones further apart? This pattern gives the answer to this question, and in doing so, helps greatly to construct the inner layout of a [[Work Community (41)]] or of [[Self-Governing Workshops and Offices (80)]] or of [[Small Services Without Red Tape (81)]]. 
 
 ---
-Reference for full-text of Pattern: p. 408 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 408.
+> #medium-confidence 

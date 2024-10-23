@@ -10,4 +10,5 @@
 Connect buildings with arcades, and outdoor rooms, and courtyards where they cannot be connected physically, wall to wall - [[Courtyards Which Live (115)]], [[Arcades (119)]], [[Outdoor Room (163)]] ...
 
 ---
-Reference for full-text of Pattern: p. 531 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 531.
+> #medium-confidence 

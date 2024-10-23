@@ -12,4 +12,5 @@ If you have followed earlier patterns, you may have rooms which have a vaulted c
 But it is also very wonderful to make at least some part of the radiant surfaces low enough so that seats can be built round them and against them; on a cold day there is nothing better than a seat against a warm stove - [[Built-in Seats (202)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1078 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1078.
+> #medium-confidence 

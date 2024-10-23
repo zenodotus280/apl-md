@@ -10,4 +10,5 @@
 Make the sill part of the frame, and make it wide enough to put things on - [[Waist-High Shelf (201)]], [[Frames as Thickened Edges (225)]], [[Windows Which Open Wide (236)]]. Make the window open outward, so that you can use the sill as a shelf, and so that you can lean out and tend the flowers. If you can, put flowers right outside the window, on the ground or raised a little, too, so that you can always see the flowers from inside the room - [[Raised Flowers (245)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1050 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1050.
+> #low-confidence 

@@ -10,4 +10,5 @@
 If the institution is large, find some way of breaking it down into smaller groups which eat together, so that no one group which eats together has more than about a dozen people in it - [[Small Work Groups (148)]], [[Small Meeting Rooms (151)]]. Build the kitchen all around the eating place like a [[Farmhouse Kitchen (139)]]; make the table itself a focus of great importance - [[Eating Atmosphere (182)]] ...
 
 ---
-Reference for full-text of Pattern: p. 696 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 696.
+> #medium-confidence 

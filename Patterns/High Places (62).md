@@ -10,4 +10,5 @@
 Elaborate the area around the base of the high place -it is a natural position for a [[Small Public Squares (61)]]; give the stair which leads up to the top, openings with views out, so that people can stop on the stair, sit down, look out, and be seen while they are climbing - [[Stair Seats (125)]], [[Zen View (134)]], [[Open Stairs (158)]] ...
 
 ---
-Reference for full-text of Pattern: p. 315 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 315.
+> #medium-confidence 

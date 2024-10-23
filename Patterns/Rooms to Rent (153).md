@@ -10,4 +10,5 @@
 Place the rooms to rent in such a way that they can double as a [[Teenager's Cottage (154)]], or an [[Old Age Cottage (155)]], or a [[Home Workshop (157)]]; give the private entrance an [[Entrance Transition (112)]], and if the space is on an upper floor, give it direct access to the street by means of [[Open Stairs (158)]]. And give the rooms themselves [[Light on Two Sides of Every Room (159)]] and [[The Shape of Indoor Space (191)]] ...
 
 ---
-Reference for full-text of Pattern: p. 720 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 720.
+> #low-confidence 

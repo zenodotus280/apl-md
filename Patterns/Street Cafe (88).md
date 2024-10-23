@@ -10,4 +10,5 @@
 Build a wide, substantial opening between the terrace and the indoors - [[Opening to the Street (165)]]; make the terrace double as [[A Place to Wait (150)]] for nearby bus stops and offices; both indoors and on the terrace use a great variety of different kinds of chairs and tables - [[Different Chairs (251)]]; and give the terrace some low definition at the street edge if it is in danger of being interrupted by street action - [[Stair Seats (125)]], [[Sitting Wall (243)]], perhaps a [[Canvas Roofs (244)]]. For the shape of the building, the terrace, and the surroundings, begin with [[Building Complex (95)]] ...
 
 ---
-Reference for full-text of Pattern: p. 436 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 436.
+> #high-confidence 

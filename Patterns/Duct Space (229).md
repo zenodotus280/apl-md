@@ -10,4 +10,5 @@
 Once the duct is in, you can fill up the triangle with lightweight concrete - [[Floor-Ceiling Vaults (219)]]. Place heating panels along the surface of the triangle - [[Radiant Heat (230)]]; and place outlets for lights at frequent intervals below the duct, with leads and conduits running down in rebates along the window frames - [[Pools of Light (252)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1076 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1076.
+> #low-confidence 

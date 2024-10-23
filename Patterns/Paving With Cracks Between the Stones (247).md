@@ -10,4 +10,5 @@
 Use paving with cracks, to help make paths and terraces which change and show the passage of time and so help people feel the earth beneath their feet - [[Connection to the Earth (168)]]; the stones themselves are best if they are simple soft baked tiles - [[Soft Tile and Brick (248)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1138 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1138.
+> #high-confidence 

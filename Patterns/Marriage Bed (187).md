@@ -10,4 +10,5 @@
 Make two separate dressing rooms or alcoves near the bed - [[Dressing Rooms (189)]]; for more details on the space around the bed, see [[Bed Alcove (188)]]; lower the ceiling over the bed - [[Ceiling Height Variety (190)]], and provide some way of creating special ornament all around it - [[Ornament (249)]]. For the detailed shape of the space around the bed, see [[The Shape of Indoor Space (191)]] ...
 
 ---
-Reference for full-text of Pattern: p. 864 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 864.
+> #low-confidence 

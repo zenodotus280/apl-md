@@ -10,4 +10,5 @@
 Build the racks for bikes to one side of the main entrance, so that the bikes don't interfere with people's natural movement in and out -- [[Main Entrance (110)]], and give it some shelter, with the path from the racks to the entrance also under shelter -- [[Arcades (119)]]; keep the bikes out of quiet walks and quiet gardens -- [[Quiet Backs (59)]], [[Garden Wall (173)]] ...
 
 ---
-Reference for full-text of Pattern: p. 289 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 289.
+> #medium-confidence 

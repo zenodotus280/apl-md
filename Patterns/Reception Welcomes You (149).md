@@ -10,4 +10,5 @@
 Place the fireplace most carefully, to be a focus - [[The Fire (181)]] give the receptionist a workspace where she can be comfortable in her own work, and still make visitors feel welcome [[Workspace Enclosure (183)]]; give the space [[Light on Two Sides of Every Room (159)]]; perhaps put in an alcove or a window seat for people who are waiting - [[A Place to Wait (150)]], [[Alcoves (179)]], [[Window Place (180)]]. Make sure that the reception point itself is lighter than surrounding areas - [[Tapestry of Light and Dark (135)]]. And for the shape of the reception space start with [[The Shape of Indoor Space (191)]] ...
 
 ---
-Reference for full-text of Pattern: p. 705 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 705.
+> #low-confidence 

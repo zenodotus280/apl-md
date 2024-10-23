@@ -10,4 +10,5 @@
 Place all the beds with care, so that they get the morning light, not only as a group - [[Couple's Realm (136)]], [[Bed Cluster (143)]], but individually, so that each gets eastern light from some specific window - [[Marriage Bed (187)]], [[Bed Alcove (188)]]. Use [[Filtered Light (238)]] to prevent the sun from shining too directly on the bed. If there is room, make this window function as a [[Window Place (180)]]. Place the window nearest the bed carefully so that it frames a view which tells a person waking what the weather is like - [[Natural Doors and Windows (221)]] ...
 
 ---
-Reference for full-text of Pattern: p. 656 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 656.
+> #medium-confidence 

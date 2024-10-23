@@ -10,4 +10,5 @@
 Emphasize the momentary view which marks the transition by a glimpse of a distant place - [[Zen View (134)]] ; perhaps make a gateway or a simple garden gate to mark the entrance - [[Garden Wall (173)]] ; and emphasize the change of light - [[Tapestry of Light and Dark (135)]], [[Trellised Walk (174)]]. The transition runs right up to the front door, up to the [[Entrance Room (130)]], and marks the beginning of the [[Intimacy Gradient (127)]] ...
 
 ---
-Reference for full-text of Pattern: p. 548 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 548.
+> #high-confidence 

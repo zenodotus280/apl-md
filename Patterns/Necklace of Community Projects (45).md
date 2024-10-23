@@ -10,4 +10,5 @@
 Make each shop small, compact, and easily accessible like [[Individually Owned Shops (87)]]; build small public spaces for loitering amongst them -- [[Public Outdoor Room (69)]]. Use them to form the building edge -- [[Building Fronts (122)]], [[Building Edge (160)]], and keep them open to the street -- [[Opening to the Street (165)]] ...
 
 ---
-Reference for full-text of Pattern: p. 242 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 242.
+> #low-confidence 

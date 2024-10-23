@@ -10,4 +10,5 @@
  If possible, make the entrance one of a family of similar entrances, so that they all stand out as visibly as possible within the street or building complex - [[Family of Entrances (102)]]; build that part of the entrance which sticks out, as a room, large enough to be a pleasant, light, and beautiful place - [[Entrance Room (130)]] and bring the path between the street and this entrance room through a series of transitions of light and level and view - [[Entrance Transition (112)]]. Make sure that the entrance has the proper relationship to parking - [[Shielded Parking (97)]], [[Car Connection (113)]] ...
  
 ---
-Reference for full-text of Pattern: p. 540 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 540.
+> #high-confidence 
