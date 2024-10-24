@@ -10,4 +10,5 @@
 On the hard floor, you can use the same floor as you use on outdoor paths and terraces - hand fired brick and tile - [[Soft Tile and Brick (248)]]. On the soft intimate floors, use materials and cloths that are rich in ornament and color - [[Ornament (249)]], [[Warm Colors (250)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1088 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1088.
+> #high-confidence 

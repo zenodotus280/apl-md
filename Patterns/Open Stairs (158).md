@@ -10,4 +10,5 @@
 Where the stair comes down to the ground, make an entrance which helps to repair the family of entrances that exist already on the street - [[Family of Entrances (102)]]; make the landings and the top of the stair, where it reaches the roof, into gardens where things can grow and where people can sit in the sun - [[Roof Garden (118)]], [[Sunny Place (161)]]. Remember [[Stair Seats (125)]], and build the stair according to [[Staircase Volume (195)]] ...
 
 ---
-Reference for full-text of Pattern: p. 740 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 740.
+> #medium-confidence 

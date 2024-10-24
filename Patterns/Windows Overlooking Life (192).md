@@ -10,4 +10,5 @@
 Fine tune the exact positions of the windows at the time that you build them - [[Natural Doors and Windows (221)]]; break the area of each window into [[Small Panes (239)]]; give each window a very [[Low Sill (222)]] to improve the view and [[Deep Reveals (223)]] to make the light as soft as possible inside
 
 ---
-Reference for full-text of Pattern: p. 889 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 889.
+> #medium-confidence 

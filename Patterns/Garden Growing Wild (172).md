@@ -10,4 +10,5 @@
 Include no formal elements, except where something is specifically called for by function - like a greenhouse [[Greenhouse (175)]], a quiet seat - [[Garden Seat (176)]], some water - [[Still Water (71)]], or flowers placed just where people can touch them and smell them - [[Raised Flowers (245)]] ...
 
 ---
-Reference for full-text of Pattern: p. 801 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 801.
+> #high-confidence 

@@ -10,4 +10,5 @@
 No matter how large the promenade is, there must be enough people coming to it to make it dense with action, and this can be precisely calculated by the formula of [[Pedestrian Density (123)]]. The promenade is mainly marked by concentrations of activity along its length -- [[Activity Nodes (30)]]; naturally, some of these will be open at night -- [[Night Life (33)]]; and somewhere on the promenade there will be a concentration of shops -- [[Shopping Street (32)]]. It might also be appropriate to include [[Carnival (58)]] and [[Dancing in the Street (63)]] in very large promenades. The detailed physical character of the promenade is given by [[Pedestrian Street (100)]] and [[Path Shape (121)]] ...
 
 ---
-Reference for full-text of Pattern: p. 168 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 168.
+> #high-confidence 

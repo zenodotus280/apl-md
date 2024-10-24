@@ -10,4 +10,5 @@
 Use a fire, and columns, and half-open walls to form the shape of the circle - [[The Fire (181)]], [[The Shape of Indoor Space (191)]], [[Half-Open Wall (193)]]; but do not make it too formal or too enclosed - [[Common Areas at the Heart (129)]], [[Sequence of Sitting Spaces (142)]]. Use [[Different Chairs (251)]], big ones, small ones, cushions, and a few too many, so that they are never too perfectly arranged, but always in a bit of a jumble. Make a [[Pools of Light (252)]] to mark the sitting circle, and perhaps a [[Window Place (180)]] ...
 
 ---
-Reference for full-text of Pattern: p. 857 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 857.
+> #medium-confidence 

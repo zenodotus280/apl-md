@@ -14,4 +14,5 @@
 Above all, make sure that there is light, plenty of light - [[Light on Two Sides of Every Room (159)]] and [[Filtered Light (238)]]; try to place the bathing room so that it opens out into a private part of the garden - [[Garden Wall (173)]], and perhaps even gives direct access to some local swimming pool - [[Still Water (71)]]. Line up the toilet with the compost chamber - [[Compost (178)]]; and for the detailed shape of the room and its construction, start with [[The Shape of Indoor Space (191)]] ...
 
 ---
-Reference for full-text of Pattern: p. 681 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 681.
+> #medium-confidence 

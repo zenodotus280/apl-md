@@ -10,4 +10,5 @@
 At waist height put in an extra deep shelf for plates, phonograph, TV, boxes, displays, treasures - [[Waist-High Shelf (201)]]. Mark the open shelves along with all the other deep spaces in the walls - [[Thickening the Outer Walls (211)]] ...
 
 ---
-Reference for full-text of Pattern: p. 919 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 919.
+> #medium-confidence 

@@ -10,4 +10,5 @@
 On the inside, give each of these windows a substantial place, so that a person feels encouraged to sit there or stand and watch the street - [[Window Place (180)]]; make the windows open outward - [[Windows Which Open Wide (236)]]; enrich the outside of the window with flower boxes and climbing plants - then people, in the course of caring for the flowers, will have the opportunity for hanging out - [[Filtered Light (238)]], [[Climbing Plants (246)]].
 
 ---
-Reference for full-text of Pattern: p. 769 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 769.
+> #medium-confidence 

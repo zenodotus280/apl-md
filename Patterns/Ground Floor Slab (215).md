@@ -12,4 +12,5 @@ Finish the public areas of the floor in brick, or tile, or waxed and polished li
 Build the low wall which forms the edge of the ground floor slab out of brick, and tie it directly into all the terraces and paths around the building - [[Connection to the Earth (168)]], [[Soft Tile and Brick (248)]]. If you are building on a steep sloped site, build part of the ground floor as a vaulted floor instead of excavating to form a slab - [[Floor-Ceiling Vaults (219)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1009 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1009.
+> #low-confidence 

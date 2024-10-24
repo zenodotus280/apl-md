@@ -10,4 +10,5 @@
 Build the caves right into the fabric of the walls - [[Thickening the Outer Walls (211)]]. Make the doors very tiny to match the caves - an extreme version of [[Low Doorway (224)]] ...
 
 ---
-Reference for full-text of Pattern: p. 927 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 927.
+> #low-confidence 

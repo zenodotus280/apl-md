@@ -11,4 +11,5 @@
 Whenever it is possible, make the ornament while you are building - not after - from the planks and boards and tiles and surfaces of which the building is actually made - [[Wall Membranes (218)]], [[Frames as Thickened Edges (225)]], [[Lapped Outside Walls (234)]], [[Soft Inside Walls (235)]], [[Soft Tile and Brick (248)]]. Use color for ornament - [[Warm Colors (250)]]; use the smaller trims which cover joints as ornament - [[Half-Inch Trim (240)]]; and embellish the rooms themselves with parts of your life which become the natural ornaments around you - [[Things From Your Life (253)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1146 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1146.
+> #high-confidence 

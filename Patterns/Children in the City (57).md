@@ -10,4 +10,5 @@
 Line the children's path with windows, especially from rooms that are in frequent use, so that the eyes upon the street make it safe for the children -- [[Street Windows (164)]]; make it touch the children's place all along the path -- [[Connected Play (68)]], [[Adventure Playground (73)]], [[Shopfront Schools (85)]], [[Children's Home (86)]], but also make it touch other phases of the life cycle -- [[Old People Everywhere (40)]], [[Work Community (41)]], [[University as a Marketplace (43)]], [[Grave Sites (70)]], [[Local Sports (72)]], [[Animals (74)]], [[Teenage Society (84)]] ...
 
 ---
-Reference for full-text of Pattern: p. 293 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 293.
+> #low-confidence 

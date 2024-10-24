@@ -10,4 +10,5 @@
 Two later patterns say that parking must take one of two forms: tiny, surface parking lots, or shielded parking structures -- [[Shielded Parking (97)]], [[Small Parking Lots (103)]]. If you accept these patterns the 9 per cent rule will put an effective upper limit of 30 parking spaces per acre, on every part of the environment. Present-day on-street parking, with driveways, which provides space for about 35 cars per acre on the ground is ruled out. And those present-day high density business developments which depend on the car are also ruled out ...
 
 ---
-Reference for full-text of Pattern: p. 120 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 120.
+> #high-confidence 

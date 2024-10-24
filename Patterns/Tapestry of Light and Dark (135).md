@@ -10,4 +10,5 @@
 Where the light to walk toward is natural light, build seats and alcoves in those windows which attract the movement - [[Window Place (180)]]. If you use skylights, then make the surfaces around the skylight warm in color - [[Warm Colors (250)]]; otherwise the direct light from the sky is almost always cold. At night make pools of incandescent light which guide the movement - [[Pools of Light (252)]] ...
 
 ---
-Reference for full-text of Pattern: p. 644 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 644.
+> #medium-confidence 

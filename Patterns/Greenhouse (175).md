@@ -10,4 +10,5 @@
 Place the greenhouse so that it has easy access to the [[Vegetable Garden (177)]] and the [[Compost (178)]]. Arrange its interior so that it is surrounded with [[Waist-High Shelf (201)]] and plenty of storage space - [[Bulk Storage (145)]]; perhaps give it a special seat, where it is possible to sit comfortably - [[Garden Seat (176)]], [[Window Place (180)]] ...
 
 ---
-Reference for full-text of Pattern: p. 812 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 812.
+> #low-confidence 

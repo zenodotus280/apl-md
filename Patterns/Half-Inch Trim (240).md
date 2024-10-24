@@ -10,4 +10,5 @@
 In many cases, you may be able to use the trim to form the ornaments - [[Ornament (249)]]; and trims may occasionally be colored: even tiny amounts can help to make the light in a room warm - [[Warm Colors (250)]].
 
 ---
-Reference for full-text of Pattern: p. 1112 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1112.
+> #high-confidence 

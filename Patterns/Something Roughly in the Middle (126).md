@@ -10,4 +10,5 @@
 Connect the different "somethings" to one another with the path system - [[Paths and Goals (120)]]. They may include [[High Places (62)]], [[Dancing in the Street (63)]], [[Pools and Streams (64)]], [[Public Outdoor Room (69)]], [[Still Water (71)]], [[Tree Places (171)]]; make sure that each one has a [[Sitting Wall (243)]] around it ...
 
 ---
-Reference for full-text of Pattern: p. 606 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 606.
+> #low-confidence 

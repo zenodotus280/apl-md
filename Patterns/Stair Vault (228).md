@@ -12,4 +12,5 @@ A lightweight concrete tread, colored, waxed, and polished can be quite beautifu
 The vaulted space under the stair can be used as an [[Alcoves (179)]], a [[Child Caves (203)]], or [[Closets Between Rooms (198)]]. If it is plastered, like a regular ceiling - see [[Floor-Ceiling Vaults (219)]], it makes a much more pleasant and useful space than the space under an ordinary stair.
 
 ---
-Reference for full-text of Pattern: p. 1073 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1073.
+> #medium-confidence 

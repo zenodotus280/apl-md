@@ -10,4 +10,5 @@
 Pay special attention to old trees, look after them - [[Tree Places (171)]]; shape the green so that it forms one or more positive room-like spaces and surround it with trees, or walls, or buildings, but not roads or cars - [[Positive Outdoor Space (106)]], [[Garden Wall (173)]]; and perhaps set aside some part of the green for special community functions - [[Holy Ground (66)]], [[Grave Sites (70)]], [[Local Sports (72)]], [[Animals (74)]], [[Sleeping in Public (94)]] ...
 
 ---
-Reference for full-text of Pattern: p. 304 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 304.
+> #high-confidence 

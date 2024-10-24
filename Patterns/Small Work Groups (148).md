@@ -10,4 +10,5 @@
 Lay the workgroups out with respect to each other so that the distances between groups is within the constraints of [[Office Connections (82)]], and give each group office space which leaves room to expand and to contract - [[Flexible Office Space (146)]]; provide a common area, either for the group itself or for several groups together or both - [[Common Areas at the Heart (129)]]. Treat each small work group, in every kind of industry and office, as a place of learning - [[Master and Apprentices (83)]]. Give it its own stair, directly to the street - [[Open Stairs (158)]]. Arrange the individual workspaces within the small work group according to [[Half-Private Office (152)]] and [[Workspace Enclosure (183)]] ...
 
 ---
-Reference for full-text of Pattern: p. 701 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 701.
+> #high-confidence 

@@ -11,4 +11,5 @@
 Build all the main paths tangent to the main building, in arcades or glazed corridors, with a direct view into its main functions - [[Common Areas at the Heart (129)]]. Make the roof cascade down from the high roof over the main building to lower roofs over the smaller buildings - [[Cascade of Roofs (116)]]. And for the load bearing structure, engineering, and construction, begin with [[Structure Follows Social Spaces (205)]] ...
 
 ---
-Reference for full-text of Pattern: p. 485 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 485.
+> #medium-confidence 

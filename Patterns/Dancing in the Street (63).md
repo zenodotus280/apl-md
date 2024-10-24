@@ -10,4 +10,5 @@
 Place the bandstand in a pocket of activity, toward the edge of a square or a promenade - [[Activity Pockets (124)]]; make it a room, defined by trellises and columns - [[Public Outdoor Room (69)]]; build [[Food Stands (93)]] around the bandstand; and for dancing, maybe colored canvas canopies, which reach out over portions of the street, and make the street, or parts of it, into a great, half-open ten t- [[Canvas Roofs (244)]] ...
 
 ---
-Reference for full-text of Pattern: p. 319 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 319.
+> #medium-confidence 

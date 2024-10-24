@@ -10,4 +10,5 @@
 Shape the common land so it has some enclosure and good sunlight - [[South Facing Outdoors (105)]], [[Positive Outdoor Space (106)]]; and so that smaller and more private pieces of land and pockets always open onto it - [[Hierarchy of Open Space (114)]]; provide communal functions within the land - [[Public Outdoor Room (69)]], [[Local Sports (72)]], [[Vegetable Garden (177)]]; and connect the different and adjacent pieces of common land to one another to form swaths of connected play space - [[Connected Play (68)]]. Roads can be part of common land if they are treated as [[Green Streets (51)]] ...
 
 ---
-Reference for full-text of Pattern: p. 336 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 336.
+> #high-confidence 

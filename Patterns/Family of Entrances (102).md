@@ -13,4 +13,5 @@
 In detail, make the entrances bold and easy to see - [[Main Entrance (110)]] ; when they lead into private domains, houses and the like, make a transition in between the, public street and the inside - [[Entrance Transition (112)]]; and shape the entrance itself as a room, which straddles the wall, and is thus both inside and outside as a projecting volume, covered and protected from the rain and sun - [[Entrance Room (130)]]. If it is an entrance from an indoor street into a public office, make reception part of the entrance - [[Reception Welcomes You (149)]] ...
 
 ---
-Reference for full-text of Pattern: p. 499 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 499.
+> #medium-confidence 

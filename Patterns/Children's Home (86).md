@@ -10,4 +10,5 @@
 Treat the building as a collection of small connected buildings - [[Building Complex (95)]]; lay an important neighborhood path right through the building, so that children who are not a part of the school can see and get to know it by meeting the children who are - [[Building Thoroughfare (101)]] attach it to the local [[Adventure Playground (73)]] ; make the teachers' house an integral part of the interior - [[Your Own Home (79)]]; and treat the common space itself as the hearth of a larger family - [[The Family (75)]], [[Common Areas at the Heart (129)]].
 
 ---
-Reference for full-text of Pattern: p. 426 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 426.
+> #medium-confidence 

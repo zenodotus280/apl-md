@@ -12,4 +12,5 @@ Remember that in a stiffened wall, the membranes can be much thinner than you mi
 Membranes can be made from hollow tile, lightweight concrete block, plywood, gypboard, wood planks, or any other sheet type material which would make a nice surface, which is easy to nail into, comfortable to touch, and so on. If the inner sheet is gypsum board, it can be finished with a skim coat of plaster - [[Soft Inside Walls (235)]]. The outer sheet can be made of 1 inch boards, tongue and grooved; or exterior grade plywood; or exterior board hung with tile, shingles, or plastered - [[Lapped Outside Walls (234)]]. It is also possible to build the outer skin of brick or tile: in this case, columns must be of the same material - [[Soft Tile and Brick (248)]]
 
 ---
-Reference for full-text of Pattern: p. 1023 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1023.
+> #medium-confidence 

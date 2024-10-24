@@ -8,4 +8,5 @@
 ... outdoors there are various low walls at sitting height - [[Sitting Wall (243)]]; terraced gardens, if the garden has a natural slope in it - [[Terraced Slope (169)]]; and paths and steps and crinkled building edges - [[Paths and Goals (120)]], [[Stair Seats (125)]], [[Building Edge (160)]], [[Garden Wall (173)]]. These are the best spots for flowers, and flowers help to make them beautiful.
 
 ---
-Reference for full-text of Pattern: p. 1132 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1132.
+> #medium-confidence 

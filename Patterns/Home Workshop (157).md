@@ -10,4 +10,5 @@
 Give the workshop a corner where it is especially nice to work - [[Light on Two Sides of Every Room (159)]], [[Workspace Enclosure (183)]]; a strong connection to the street - [[Opening to the Street (165)]], [[Windows Overlooking Life (192)]]; perhaps a place to work in the sun on warm days - [[Sunny Place (161)]] For the shape of the workshop and its construction, start with [[The Shape of Indoor Space (191)]] ...
 
 ---
-Reference for full-text of Pattern: p. 737 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 737.
+> #low-confidence 

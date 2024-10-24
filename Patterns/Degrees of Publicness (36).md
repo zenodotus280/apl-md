@@ -10,4 +10,5 @@
 Use this pattern to help differentiate the houses both in neighborhoods and in house clusters. Within a neighborhood, place higher density clusters along the busier streets - [[Housing Hill (39)]], [[Row Houses (38)]], and lower density clusters along the backwaters [[House Cluster (37)]], [[Row Houses (38)]]. The actual busy streets themselves should either be [[Pedestrian Street (100) | Pedestrian Streets (100)]] or [[Raised Walk (55) | Raised Walks (55)]] on major roads; the backwaters [[Green Streets (51)]], or narrow paths with a distinct [[Path Shape (121)]]. Where lively streets are wanted, make sure the density of housing is high enough to generate the liveliness - [[Pedestrian Density (123)]] ...
 
 ---
-Reference for full-text of Pattern: p. 192 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 192.
+> #high-confidence 

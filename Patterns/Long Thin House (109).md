@@ -10,4 +10,5 @@
 Use the long thin plan to help shape outdoor space on the site - [[Positive Outdoor Space (106)]]; the long perimeter of the building sets the stage for [[Intimacy Gradient (127)]] and for the [[Cascade of Roofs (116)]]. Make certain that the privacy which is achieved with the thinness of the building is balanced with the communality at the crossroads of the house - [[Common Areas at the Heart (129)]] ...
 
 ---
-Reference for full-text of Pattern: p. 535 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 535.
+> #medium-confidence 

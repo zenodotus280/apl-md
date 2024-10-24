@@ -10,4 +10,5 @@
 Above all, leave trees intact and build around them with great care - [[Tree Places (171)]]; keep open spaces open to the south of buildings, for the sun -[[South Facing Outdoors (105)]]; try, generally, to shape space in such a way that each place becomes positive, in its own right - [[Positive Outdoor Space (106)]]. Repair slopes if they need it with [[Terraced Slope (169)]], and leave the outdoors in its natural state as much as possible - [[Garden Growing Wild (172)]]. If necessary, push and shove the building into odd corners to preserve the beauty of an old vine, a bush you love, a patch of lovely grass - [[Wings of Light (107)]], [[Long Thin House (109)]] ...
 
 ---
-Reference for full-text of Pattern: p. 508 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 508.
+> #high-confidence 

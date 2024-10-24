@@ -10,4 +10,5 @@
 Use this pattern as it is for low densities, up to about 15 houses per acre; at higher densities, modify the cluster with the additional structure given by [[Row Houses (38)]] or [[Housing Hill (39)]]. Always provide common land between the houses - [[Common Land (67)]] and a shared common workshop [[Home Workshop (157)]]. Arrange paths clearly - [[Circulation Realms (98)]] - and lay these paths out in such a way that they create busier paths and backwaters, even within the cluster - [[Degrees of Publicness (36)]]; keep parking in [[Small Parking Lots (103)]],and make the houses in the cluster suit the households which will live there - [[The Family (75)]], [[House for a Small Family (76)]], [[House for a Couple (77)]], [[House for One Person (78)]], [[Your Own Home (79)]].
 
 ---
-Reference for full-text of Pattern: p. 197 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 197.
+> #high-confidence 

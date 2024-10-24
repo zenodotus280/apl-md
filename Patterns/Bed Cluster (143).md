@@ -10,4 +10,5 @@
 Another version of this pattern, more suitable for adults, is given by [[Communal Sleeping (186)]]. In both cases, build the individual alcoves according to [[Bed Alcove (188)]]; if the cluster is for children, shape the playspace in the middle according to the specifications of [[Children's Realm (137)]], and make the path which leads from the beds, past the kitchen, to the outdoors, according to that pattern too. Use the location of dressing areas and closets to help shape the bed cluster and the individual alcoves - [[Dressing Rooms (189)]], [[Closets Between Rooms (198)]]; include some tiny nooks and crannies - [[Child Caves (203)]]. Give the entire space [[Light on Two Sides of Every Room (159)]]. And for the shape of this space in more detail and its construction, start with [[The Shape of Indoor Space (191)]] ...
 
 ---
-Reference for full-text of Pattern: p. 676 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 676.
+> #medium-confidence 

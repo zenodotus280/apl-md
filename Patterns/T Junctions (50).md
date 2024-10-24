@@ -10,4 +10,5 @@
 At busy junctions, where pedestrian paths converge, make a special raised crossing for pedestrians, something more than the usual crosswalk -- [[Road Crossing (54)]] ...
 
 ---
-Reference for full-text of Pattern: p. 264 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 264.
+> #medium-confidence 

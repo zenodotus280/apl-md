@@ -10,4 +10,5 @@
 Build the shelf right into the structure of the building - [[Thickening the Outer Walls (211)]]. It is a good place to put your personal treasures - [[Things From Your Life (253)]] ...
 
 ---
-Reference for full-text of Pattern: p. 922 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 922.
+> #low-confidence 

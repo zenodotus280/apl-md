@@ -10,4 +10,5 @@
 Place each dressing room so that it gets plenty of natural [[Light on Two Sides of Every Room (159)]]. Use [[Thick Walls (197)]], [[Closets Between Rooms (198)]], and [[Open Shelves (200)]] to form its walls; include a wide shelf around the edge - [[Waist-High Shelf (201)]]; and for the detailed shape of the room, see [[The Shape of Indoor Space (191)]].
 
 ---
-Reference for full-text of Pattern: p. 872 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 872.
+> #medium-confidence 

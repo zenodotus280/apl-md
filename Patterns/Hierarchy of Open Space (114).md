@@ -11,4 +11,5 @@
 For example: garden seats open to gardens - [[Garden Seat (176)]], [[Half-Hidden Garden (111)]]; activity pockets open to public squares - [[Activity Pockets (124)]], [[Small Public Squares (61)]]; gardens open to local roads - [[Private Terrace on the Street (140)]], [[Looped Local Roads (49)]], roads open to fields - [[Green Streets (51)]], [[Accessible Green (60)]]; fields open to the countryside, on a great vista - [[Common Land (67)]], [[The Countryside (7)]]. Make certain that each piece of the hierarchy is arranged so that people can be comfortably settled within it, oriented out toward the next larger space.
 
 ---
-Reference for full-text of Pattern: p. 557 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 557.
+> #medium-confidence 

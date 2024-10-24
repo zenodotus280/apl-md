@@ -10,7 +10,6 @@
 Make each square mile of countryside, both farm and park, open to the public -- [[The Countryside (7)]]; arrange the half acre lots to form clusters of houses and neighborhoods, even when they are rather spread out -- [[Identifiable Neighborhood (14)]], [[House Cluster (37)]].
 
 ---
-
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 29.
 > #low-confidence 
 > 

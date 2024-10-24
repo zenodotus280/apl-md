@@ -10,4 +10,5 @@
 In our own building system, we find it is worth putting on a light skim coat of plaster over the inner surfaces of the [[Wall Membranes (218)]] and [[Floor-Ceiling Vaults (219)]]. Wherever finish plaster meets columns, and beams, and doors and window frames, cover the joint with [[Half-Inch Trim (240)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1096 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1096.
+> #medium-confidence 

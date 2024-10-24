@@ -10,4 +10,5 @@
 Remember to try and put the roof gardens at the open ends of [[Wings of Light (107)]] so as not to take the daylight away from lower stories. Some roof gardens may be like balconies or galleries or terraces - [[Private Terrace on the Street (140)]], [[Gallery Surround (166)]], [[Six-Foot Balcony (167)]]. In any case, place the roof garden so that it is sheltered from the wind - [[Sunny Place (161)]], and give part of the roof some extra kind of shelter - perhaps a canvas awning - so that people can stay on the roof but keep out of the hot sun - [[Canvas Roofs (244)]]. Treat each individual garden much the way as any other garden, with flowers, vegetables, outdoor rooms, canvas awnings, climbing plants - [[Outdoor Room (163)]], [[Vegetable Garden (177)]], [[Raised Flowers (245)]], [[Climbing Plants (246)]] ...
 
 ---
-Reference for full-text of Pattern: p. 575 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 575.
+> #medium-confidence 

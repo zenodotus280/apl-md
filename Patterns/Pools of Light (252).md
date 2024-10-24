@@ -10,4 +10,5 @@
 Color the lampshades and the hangings near the lights to make the light which bounces off them warm in color - [[Warm Colors (250)]] ...
 
 ---
-Reference for full-text of Pattern: p. 1160 #high-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1160.
+> #high-confidence 

@@ -10,4 +10,5 @@
 Arrange the workspaces as [[Half-Private Office (152)]] or [[Workspace Enclosure (183)]]. Keep workgroups small, and give every group a common area, a common meeting space, and a place where they can eat together - [[Common Areas at the Heart (129)]], [[Communal Eating (147)]], [[Small Work Groups (148)]], [[Small Meeting Rooms (151)]] ...
 
 ---
-Reference for full-text of Pattern: p. 412 #medium-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 412.
+> #medium-confidence 

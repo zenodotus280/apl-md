@@ -10,4 +10,5 @@
 Make sure that the adventure playground is in the sun - [[Sunny Place (161)]] ; make hard surfaces for bikes and carts and toy trucks and trolleys, and soft surfaces for mud and building things - [[Bike Paths and Racks (56)]], [[Garden Growing Wild (172)]], [[Child Caves (203)]] ; and make the boundary substantial with a [[Garden Wall (173)]] or [[Sitting Wall (243)]] ...
 
 ---
-Reference for full-text of Pattern: p. 367 #low-confidence 
+> [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 367.
+> #low-confidence 
