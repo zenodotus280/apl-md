@@ -10,5 +10,6 @@
 Include rooms where after the birth the mother and her baby can stay together with the other members of the family - sleep together, eat together, cook together - [[Common Areas at the Heart (129)]], [[Couple's Realm (136)]], [[Farmhouse Kitchen (139)]] ; provide a partly private garden to walk in - [[Half-Hidden Garden (111)]], [[Garden Wall (173)]]; for the shape of the building, gardens, parking, and surroundings, begin with [[Building Complex (95)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 328.
 > #low-confidence 

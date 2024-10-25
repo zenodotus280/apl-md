@@ -10,5 +10,6 @@
 Make the windows the same as any other windows, with small panes of glass - [[Small Panes (239)]]. In some case it may be right to build interior windows in the doors - [[Solid Doors with Glass (237)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 897.
 > #low-confidence 

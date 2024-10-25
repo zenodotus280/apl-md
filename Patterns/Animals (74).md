@@ -10,5 +10,6 @@
 Make sure that the green areas - [[Green Streets (51)]], [[Accessible Green (60)]] - are all connected to one another to form a continuous swath throughout the city for domestic and wild animals. Place the animal commons near a children's home and near the local schools, so children can take care of the animals - [[Children's Home (86)]]; if there is a lot of dung, make sure that it can be used as a fertilizer - [[Compost (178)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 371.
 > #low-confidence 

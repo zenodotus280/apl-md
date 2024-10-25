@@ -10,5 +10,6 @@
 When a road is a green street, it so pleasant that it naturally tends to attract activity to it. In this case, the paths and the green streets are one -- [[Common Land (67)]]. However, even when the green street is green, it may be pleasant to put in occasional very small lanes, a few feet wide, at right angles to the green streets, according to the [[Network of Paths and Cars (52)]]. In order to preserve the greenness of the street, it will be essential, too, to keep parked cars in driveways on the individual lots, or in tiny parking lots, at the ends of the street, reserved for the house owners and their visitors -- [[Small Parking Lots (103)]]. Fruit trees and flowers will make the street more beautiful -- [[Fruit Trees (170)]], [[Raised Flowers (245)]] -- and the paving stones which form the beds for cars to drive on, can themselves be laid with cracks between them and with grass and moss and flowers in the cracks between the stones -- [[Paving With Cracks Between the Stones (247)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 266.
 > #high-confidence 

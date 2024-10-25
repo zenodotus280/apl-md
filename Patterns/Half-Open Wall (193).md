@@ -10,5 +10,6 @@
 Wherever a small space is in a larger space, yet slightly separate from it, make the wall between the two about half-open and half-solid - [[Alcoves (179)]], [[Workspace Enclosure (183)]]. Concentrate the solids and the openings, so that there are essentially a large number of smallish openings, each framed by thick columns, waist high shelves, deep soffits, and arches or braces in the corners with ornament where solids and openings meet - [[Interior Windows (194)]], [[Columns at the Corners (212)]], [[Column Place (226)]], [[Column Connections (227)]], [[Small Panes (239)]], [[Ornament (249)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 893.
 > #medium-confidence 

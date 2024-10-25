@@ -8,5 +8,6 @@
 ... lastly, when you have taken care of everything, and you start living in the places you have made, you may wonder what kinds of things to pin up on the walls.
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1164.
 > #medium-confidence 

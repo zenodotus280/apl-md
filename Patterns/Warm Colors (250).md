@@ -10,5 +10,6 @@
 This means that yellows, reds, and oranges will often be needed to pick out trim and lampshades and occasional details [[Half-Inch Trim (240)]], [[Ornament (249)]], [[Pools of Light (252)]]. Colored [[Canvas Roofs (244)]] and [[Soft Tile and Brick (248)]] also help to make warm colored light. Blues and greens and greys are much harder to use; especially on the north side where the light is cold and grey, but they can always be used for ornament, where they help to set off the warmer colors - [[Ornament (249)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1153.
 > #high-confidence 

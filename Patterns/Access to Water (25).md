@@ -10,5 +10,6 @@
 The width of the common land will vary with the types of water and the ecological conditions. In one case, it may be no more than a simple stone promenade along a river bank a few feet wide [[Promenade (31)]]. In another case, it may be a swath of dunes extending hundreds of yards beyond a beach -- [[The Countryside (7)]]. In any case, do not build roads along the water within one mile of the water; instead make all the approach roads at right angles to the edge, and very far apart -- [[Parallel Roads (23)]]. If parking is provided, keep the lots small -- [[Small Parking Lots (103)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 135.
 > #medium-confidence 

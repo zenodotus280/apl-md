@@ -10,5 +10,6 @@
 Treat the first entrances to the whole system of circulation realms, the very largest ones, as gateways - [[Main Gateways (53)]]; make the major realms, which open off the gateways, pedestrian streets or common land - [[Common Land (67)]], [[Pedestrian Street (100)]]; then, make minor realms with individual buildings, and courtyards, and major indoor streets - [[Main Building (99)]], [[Building Thoroughfare (101)]], [[Hierarchy of Open Space (114)]], [[Courtyards Which Live (115)]]; and mark the entrance to these minor realms with minor entrances that still stand out quite clearly - [[Family of Entrances (102)]], [[Main Entrance (110)]]. Make the layout of paths consonant with [[Paths and Goals (120)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 480.
 > #high-confidence 

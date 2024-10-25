@@ -11,5 +11,6 @@
 Place the [[Alcoves (179)]] and [[Marriage Bed (187)]] and the [[Bed Alcove (188)]] and [[Dressing Rooms (189)]] accordingly. The children have this pattern for themselves already - if bed alcoves are placed in a cluster - [[Bed Cluster (143)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 861.
 > #low-confidence 

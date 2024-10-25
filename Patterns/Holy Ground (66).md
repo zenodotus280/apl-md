@@ -10,5 +10,6 @@
 At each threshold between precincts build a gate - [[Main Gateways (53)]] - at each gate, a place to pause with a new view toward the next most inner place - [[Zen View (134)]] and at the innermost sanctum, something very quiet and able to inspire - perhaps a view, or no more than a simple tree, or pool - [[Pools and Streams (64)]], [[Tree Places (171)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 331.
 > #medium-confidence 

@@ -10,5 +10,6 @@
 Use the canvas awnings, especially, to filter light over those windows which face west and south and glare because they face the sky - [[Filtered Light (238)]]. Colored canvas will add special life - [[Ornament (249)]], [[Warm Colors (250)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1128.
 > #medium-confidence 

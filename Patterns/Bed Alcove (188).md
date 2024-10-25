@@ -11,5 +11,6 @@
 Build the ceiling low - [[Ceiling Height Variety (190)]]; add some storage in the walls around the alcove - [[Thick Walls (197)]], [[Open Shelves (200)]], and a window, in a natural position - [[Natural Doors and Windows (221)]]. Perhaps [[Half-Open Wall (193)]] will help to give the alcove the right enclosure. Where space is very tight, combine the bed alcove with [[Dressing Rooms (189)]]. And finally, give each alcove, no matter how small, the characteristics of any indoor space - [[The Shape of Indoor Space (191)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 868.
 > #high-confidence 

@@ -10,5 +10,6 @@
 Make the gateways solid elements, visible from every line of approach, enclosing the paths, punching a hole through a building, creating a bridge or a sharp change of level -- but above all make them "things", in just the same way specified for [[Main Entrance (110)]], but make them larger. Whenever possible, emphasize the feeling of transition for the person passing through the gateway, by allowing change of light, or surface, view, crossing water, a change of level -- [[Entrance Transition (112)]]. In every case, treat the main gateway as a starting point of the pedestrian circulation inside the precinct -- [[Circulation Realms (98)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 276.
 > #high-confidence 

@@ -10,5 +10,6 @@
 Make the square at the heart of the community a public square with public paths coming through it [[Small Public Squares (61)]]; either in this square, or in some attached space, place opportunities for sports -- [[Local Sports (72)]]; make sure that the entire community is always within three minutes' walk of an [[Accessible Green (60)]]; lay out the individual smaller courtyards in such a way that people naturally gather there -- [[Courtyards Which Live (115)]]; keep the workshops small -- [[Self-Governing Workshops and Offices (80)]]; encourage communal cooking and eating over and beyond the lunch counters -- [[Street Cafe (88)]], [[Food Stands (93)]], [[Communal Eating (147)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 222.
 > #high-confidence 

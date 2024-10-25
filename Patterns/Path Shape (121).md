@@ -10,5 +10,6 @@
 Above all, to create the shape of the path, move the building fronts into the right positions, and on no account allow a set-back between the building and the path - [[Building Fronts (122)]]; decide on the appropriate area for the "bulge" by using the arithmetic of [[Pedestrian Density (123)]]; then form the details of the bulge with [[Arcades (119)]], [[Activity Pockets (124)]] and [[Stair Seats (125)]]; perhaps even with a [[Public Outdoor Room (69)]] ; and give as much life as you can to the path all along its length with windows - [[Street Windows (164)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 589.
 > #medium-confidence 

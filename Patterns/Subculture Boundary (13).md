@@ -10,6 +10,7 @@
 Natural boundaries can be things like [[The Countryside (7)]], [[Sacred Sites (24)]], [[Access to Water (25)]], [[Pools and Streams (64)]], [[Still Water (71)]]. Artificial boundaries can include [[Ring Roads (17)]], [[Parallel Roads (23)]], [[Work Community (41)]], [[Industrial Ribbon (42)]], [[Teenage Society (84)]], [[Shielded Parking (97)]]. The interior organisation of the subculture boundary should follow two broad principles. It should concentrate the various land uses to form functional clusters around activity -- [[Activity Nodes (30)]], [[Work Community (41)]]. And the boundary should be accessible to both the neighboring communities, so that it is a meeting ground for them. -- [[Eccentric Nucleus (28)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 75
 > #medium-confidence 
 > 

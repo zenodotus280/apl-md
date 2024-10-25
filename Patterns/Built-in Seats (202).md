@@ -10,5 +10,6 @@
 Once you decide where to put the seat, make it part of the [[Thick Walls (197)]], so that it is a part of the structure, not just an addition - [[Thickening the Outer Walls (211)]]
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 924.
 > #medium-confidence 

@@ -10,5 +10,6 @@
 These places should be an integral part of the building territory, and contain seats, tables, furniture, places to stand and talk, places to work outside - all in the public view - [[Private Terrace on the Street (140)]], [[Outdoor Room (163)]]; make the spaces deep enough to be really useful - [[Six-Foot Balcony (167)]] - with columns heavy enough to provide at least partial enclosure - [[Half-Open Wall (193)]], [[Column Place (226)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 777.
 > #medium-confidence 

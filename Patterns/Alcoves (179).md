@@ -10,5 +10,6 @@
 Give the alcove a ceiling which is markedly lower than the ceiling height in the main room - [[Ceiling Height Variety (190)]]; make a partial boundary between the alcove and the common room by using low walls and thick columns - [[Half-Open Wall (193)]], [[Column Place (226)]]; when the alcove is on an outside wall, make it into a window place, with a nice window, low sill, and a built-in seat - [[Window Place (180)]], [[Built-in Seats (202)]]; and treat it as [[Thickening the Outer Walls (211)]]. For details on the shape of the alcove, see [[The Shape of Indoor Space (191)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 828.
 > #high-confidence 

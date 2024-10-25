@@ -10,5 +10,6 @@
 In making our filled lightweight concrete structures, we have used lapped boards as the exterior formwork for the lightweight concrete fill. And it is, of course, possible to use many other kinds of external cladding if they are available and if one can afford them. Slate, corrugated iron, ceramic tiles will produce excellent shingled wall claddings, and can all be placed in such a way as to provide exterior formwork for the pouring of a wall. It is also conceivable (though we have no evidence for it), that scientists might be able to create an oriented material whose internal crystal or fiber structure is in effect "lapped," because all the split lines run diagonally outward and downward.
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1093.
 > #low-confidence 

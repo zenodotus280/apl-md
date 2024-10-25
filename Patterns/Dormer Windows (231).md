@@ -11,5 +11,6 @@ Frame them like [[Alcoves (179)]] and [[Window Place (180)]] with [[Gradual Stif
 Put [[Windows Which Open Wide (236)]] in them, and make [[Small Panes (239)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1081.
 > #medium-confidence 

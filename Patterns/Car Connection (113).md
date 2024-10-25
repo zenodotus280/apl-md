@@ -10,5 +10,6 @@
  Place both kitchen and main common living room just inside the main entrance-[[Intimacy Gradient (127)]], [[Common Areas at the Heart (129)]]; treat the place for the car as if it were an actual outdoor room - [[Outdoor Room (163)]]. If it is enclosed, build the enclosure according to [[Structure Follows Social Spaces (205)]]; and make the path between this room and the front door a beautiful path, preferably the same as the one used by people who come on foot - [[Entrance Transition (112)]], [[Arcades (119)]], [[Paths and Goals (120)]], [[Raised Flowers (245)]]. If you can, put the car connection on the north face of the building - [[North Face (162)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 553.
 > #low-confidence 

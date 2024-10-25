@@ -10,5 +10,6 @@
 Again, treat the house as a distinct piece of territory, in some fashion owned by its users - [[Your Own Home (79)]]. Lay out the common part, according to the pattern [[Couple's Realm (136)]], and give both persons an individual world of their own where they can be alone - [[A Room of One's Own (141)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 385.
 > #medium-confidence 

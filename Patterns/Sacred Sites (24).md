@@ -10,5 +10,6 @@
 Give every sacred site a place, or a sequence of places, where people can relax, enjoy themselves, and feel the presence of the place -- [[Quiet Backs (59)]], [[Zen View (134)]], [[Tree Places (171)]], [[Garden Seat (176)]]. And above all, shield the approach to the site, so that it can only be approached on foot, and through a series of gateways and thresholds which reveal it gradually -- [[Holy Ground (66)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 131.
 > #medium-confidence 

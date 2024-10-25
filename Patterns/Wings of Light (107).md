@@ -12,5 +12,6 @@
 Give each wing its own roof in such a way that all the wings together form a great cascade of roofs - [[Cascade of Roofs (116)]]; if the wing contains various houses, or workgroups, or a sequence of major rooms, build access to these rooms and groups of rooms from one side, from an arcade, or gallery, not from a central corridor - [[Arcades (119)]], [[Short Passages (132)]]. For the load bearing structure of the wings, begin with [[Structure Follows Social Spaces (205)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 524.
 > #high-confidence 

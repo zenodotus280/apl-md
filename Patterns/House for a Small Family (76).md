@@ -10,5 +10,6 @@
 Treat the house, like every house, as a distinct piece of territory - [[Your Own Home (79)]]; build the three main parts according to the specific patterns for those parts - [[Common Areas at the Heart (129)]], [[Couple's Realm (136)]], [[Bed Cluster (143)]] and connect the common areas, and the bed cluster according to the [[Children's Realm (137)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 381.
 > #medium-confidence 

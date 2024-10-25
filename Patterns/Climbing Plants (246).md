@@ -8,5 +8,6 @@
 ... two earlier patterns can be helped by climbing plants around the building: [[Trellised Walk (174)]] and [[Filtered Light (238)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1135.
 > #low-confidence 

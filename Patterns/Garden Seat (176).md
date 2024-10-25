@@ -10,5 +10,6 @@
 Place the garden seat, like other outdoor seats, where it commands a view, is in the sun, is sheltered from the wind - [[Seat Spots (241)]] ; perhaps under bushes and trees where light is soft and dappled - [[Filtered Light (238)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 815.
 > #low-confidence 

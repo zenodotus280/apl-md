@@ -10,5 +10,6 @@
 Let people lay out their own houses individually, upon the terraces, just as if they were land - [[Your Own Home (79)]]. Since each terrace overlaps the one below it, each house has its garden on the house below [[Roof Garden (118)]]. Leave the the central stair open to the air, but give it a roof, in wet or snowy climates - perhaps a glass roof - [[Open Stairs (158)]]; and place the common land right at the bottom of the stair with playgrounds, flowers and vegetables for everyone - [[Common Land (67)]], [[Connected Play (68)]], [[Vegetable Garden (177)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 209.
 > #low-confidence 

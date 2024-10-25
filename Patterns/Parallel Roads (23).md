@@ -10,5 +10,6 @@
 The parallel roads are the only *through* roads in a [[Local Transport Areas (11)]]. For access from the parallel roads to public buildings, house clusters, and individual houses use safe, slow, narrow roads which are not through roads -- [[Looped Local Roads (49)]], [[Green Streets (51)]] -- and make their intersections with parallel roads a "T" -- [[T Junctions (50)]]. Keep the pedestrian path system at right angles to the parallel roads, and raised above them where the two must run parallel -- [[Network of Paths and Cars (52)]], [[Raised Walk (55)]]. Provide a [[Road Crossing (54)]] where paths and roads cross.
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 126.
 > #low-confidence 

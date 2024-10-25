@@ -10,5 +10,6 @@
 Put the tables in two-ended alcoves, roomy enough for people to pass through on their way between activities - [[Alcoves (179)]]; provide a fire, as the hub of one activity - [[The Fire (181)]]; and a variety of ceiling heights to correspond to different social groupings - [[Ceiling Height Variety (190)]]. For the shape of the building, gardens, parking, and surroundings, begin with [[Building Complex (95)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 444.
 > #low-confidence 

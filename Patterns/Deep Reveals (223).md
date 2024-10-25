@@ -10,5 +10,6 @@
 Build the depth of the frame so that it is continuous with the structure of the walls - [[Frames as Thickened Edges (225)]]; if the wall is thin, make up the necessary depth for the reveal on the inside face of the wall, with bookshelves, closets or other [[Thick Walls (197)]]; embellish the edge of the window even further, to make light even softer, with lace work, tracery, and climbing plants - [[Filtered Light (238)]], [[Half-Inch Trim (240)]], [[Climbing Plants (246)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1053.
 > #low-confidence 

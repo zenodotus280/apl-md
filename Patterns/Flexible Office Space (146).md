@@ -12,5 +12,6 @@
 Light is critical. The bays of this kind of workspace must either be free-standing (so that there is light behind the alcoves), or the entire bay must be short enough to bring enough light in from the two ends - [[Light on Two Sides of Every Room (159)]]. Use [[Ceiling Height Variety (190)]] and [[Column Place (226)]] to define the proper mix of possible spaces. Above all, lay the workspace out in such a way to make it possible for people to work in twos and threes, always with partial contact and partial privacy - [[Small Work Groups (148)]] and [[Half-Private Office (152)]]. Place a welcoming reception area at the front - [[Reception Welcomes You (149)]]; and in the common areas at the heart arrange a place where people can eat together everyday - [[Communal Eating (147)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 690.
 > #low-confidence 

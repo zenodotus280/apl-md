@@ -15,5 +15,6 @@
 Put a [[Perimeter Beams (217)]] on all four sides of every vault, along the top of the bearing wall, or spanning openings. Get the shape of the vaults from [[Floor-Ceiling Vaults (219)]] and as you lay out the sections through the vaults, bear in mind that the perimeter beams get lower and lower on higher floors, because the columns on upper stories must be shorter (top floor columns about 4 feet, one below top 6 feet, two below top 6 to 7 feet, three below top 8 feet) - [[Final Column Distribution (213)]]. Make sure that variations in floor level coincide with the distinctions between quiet and more public areas - [[Floor Surface (233)]]. Complete the definition of the individual spaces which the vaults create with [[Columns at the Corners (212)]]. Include the smallest vaults of all, around the building edge, in [[Thickening the Outer Walls (211)]]
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 978.
 > #low-confidence 

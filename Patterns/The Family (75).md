@@ -14,5 +14,6 @@
 Each individual household within the larger family must, at all costs, have a clearly defined territory of its own, which it controls - [[Your Own Home (79)]]; treat the individual territories according to the nature of the individual households - [[House for a Small Family (76)]], [[House for a Couple (77)]], [[House for One Person (78)]]; and build common space between them, where the members of the different smaller households can meet and eat together - [[Common Areas at the Heart (129)]], [[Communal Eating (147)]]. For the shape of the building, gardens, parking, and surroundings, begin with [[Building Complex (95)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 376.
 > #medium-confidence 

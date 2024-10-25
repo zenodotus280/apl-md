@@ -10,5 +10,6 @@
 Treat the sports places as a special class of recognizable simple buildings, which are open, easy to get into, with changing rooms and showers - [[Building Complex (95)]], [[Bathing Room (144)]]; combine them with community swimming pools, where they exist - [[Still Water (71)]] ; keep them open to people passing - [[Building Thoroughfare (101)]], [[Opening to the Street (165)]],and provide places where people can stop and watch - [[Seat Spots (241)]], [[Sitting Wall (243)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 363.
 > #medium-confidence 

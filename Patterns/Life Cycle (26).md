@@ -21,5 +21,6 @@ Make certain that the full cycle of life is represented and balanced in each com
 The rites of passage are provided for, most concretely, by [[Holy Ground (66)]]. Other specific patterns which especially support the seven ages of man and the ceremonies of transition are [[Household Mix (35)]], [[Old People Everywhere (40)]], [[Work Community (41)]], [[Local Town Hall (44)]], [[Children in the City (57)]], [[Birth Places (65)]], [[Grave Sites (70)]], [[The Family (75)]], [[Your Own Home (79)]], [[Master and Apprentices (83)]], [[Teenage Society (84)]], [[Shopfront Schools (85)]], [[Children's Home (86)]], [[Rooms to Rent (153)]], [[Teenager's Cottage (154)]], [[Old Age Cottage (155)]], [[Settled Work (156)]], [[Marriage Bed (187)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 139.
 > #medium-confidence 

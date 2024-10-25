@@ -10,5 +10,6 @@
 The active part might have a window on the street - [[Street Windows (164)]], [[Window Place (180)]], a cafe - [[Street Cafe (88)]], games, positive engagements with the people passing by - [[Opening to the Street (165)]]. The quiet part might have a quiet garden seat - [[Garden Seat (176)]], a place for people to doze [[Sleeping in Public (94)]], perhaps a pond with fish in it - [[Still Water (71)]]. To the extent that this waiting space is a room, or a group of rooms, it gets its detailed shape from [[Light on Two Sides of Every Room (159)]] and [[The Shape of Indoor Space (191)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 707.
 > #medium-confidence 

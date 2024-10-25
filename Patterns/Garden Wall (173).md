@@ -10,5 +10,6 @@
 Use the garden wall to help form positive outdoor space - [[Positive Outdoor Space (106)]]; but pierce it with balustrades and windows to make connections between garden and street, or garden and garden - [[Private Terrace on the Street (140)]], [[Trellised Walk (174)]], [[Half-Open Wall (193)]], and above all, give it openings to make views into other larger and more distant spaces - [[Hierarchy of Open Space (114)]], [[Zen View (134)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 805.
 > #medium-confidence 

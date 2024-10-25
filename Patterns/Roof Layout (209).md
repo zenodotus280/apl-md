@@ -12,5 +12,6 @@ You can build all these roofs, and the connections between them, by following th
 Treat the smallest shed roofs, which cover thick walls and alcoves, as buttresses, and build them to help take the horizontal thrust from floor vaults and higher roof vaults - [[Thickening the Outer Walls (211)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 970.
 > #medium-confidence 

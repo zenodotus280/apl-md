@@ -10,6 +10,7 @@
 Treat each downtown as a pedestrian and local transport area -- [[Local Transport Areas (11)]], [[Promenade (31)]], with good transit connections from the outlying areas -- [[Web of Public Transport (16)]]; encourage a rich concentration of night life within each downtown -- [[Night Life (33)]], and set aside at least some part of it for the wildest kind of street life -- [[Carnival (58)]], [[Dancing in the Street (63)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 58
 > #low-confidence 
 > 

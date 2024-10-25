@@ -10,5 +10,6 @@
 In [[Gradual Stiffening (208)]], We shall Work out the way of using these materials that goes with [[Structure Follows Social Spaces (205)]] and [[Efficient Structure (206)]]. Try to use the materials in such a way as to allow their own texture to show themselves - [[Lapped Outside Walls (234)]], [[Soft Inside Walls (235)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 955.
 > #high-confidence 

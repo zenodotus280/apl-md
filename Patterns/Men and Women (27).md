@@ -10,5 +10,6 @@
 No large housing areas without workshops for men; no work communities which do not provide for women with part-time jobs and child care -- [[Scattered Work (9)]]. Within each place which has a balance of the masculine and feminine, make sure that individual men and women also have room to flourish, in their own right, distinct and separate from their opposites -- [[A Room of One's Own (141)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 146.
 > #low-confidence 

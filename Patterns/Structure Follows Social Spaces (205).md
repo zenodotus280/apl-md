@@ -14,6 +14,7 @@ You will be able to guarantee that structure follows social spaces by placing co
 For the principles of structure which will make it possible to build your building according to this pattern, begin with [[Efficient Structure (206)]]; for the class of compatible materials, see [[Good Materials (207)]]; for the fundamentals of the process of construction, see [[Gradual Stiffening (208)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 940.
 > #high-confidence 
 > 

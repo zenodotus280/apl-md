@@ -11,5 +11,6 @@
 In windows, splay the thickening, to create [[Deep Reveals (223)]]; the form of doors and windows which will fill the frame, is given by the later patterns - [[Windows Which Open Wide (236)]], [[Solid Doors with Glass (237)]], [[Small Panes (239)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1059.
 > #high-confidence 

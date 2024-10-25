@@ -10,5 +10,6 @@
 Plant vegetables and orchards on the terraces - [[Vegetable Garden (177)]], [[Fruit Trees (170)]]; along the walls which form the terraces, plant flowers high enough to touch and smell - [[Raised Flowers (245)]]. And it is also very natural to make the walls so people can sit on them - [[Sitting Wall (243)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 790.
 > #medium-confidence 

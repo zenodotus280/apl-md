@@ -12,6 +12,7 @@
 Above all, encourage the formation of seminars and workshops in people's homes -- [[Home Workshop (157)]]; make sure that each city has a "path" where young children can safely wander on their own -- [[Children in the City (57)]]; build extra public "homes" for children, one to every neighborhood at least -- [[Children's Home (86)]]; create a large number of work-oriented small schools in those parts of town dominated by work and commercial activity -- [[Shopfront Schools (85)]]; encourage teenagers to work out a self-organised learning society of their own -- [[Teenage Society (84)]]; treat the university as scattered adult learning for all the adults in the region -- [[University as a Marketplace (43)]]; and use the real work of professionals and tradesmen as the basic nodes in the network -- [[Master and Apprentices (83)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 99
 > #medium-confidence 
 > 

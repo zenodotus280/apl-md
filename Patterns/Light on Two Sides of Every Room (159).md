@@ -12,5 +12,6 @@
 Place the individual windows to look onto something beautiful - [[Windows Overlooking Life (192)]], [[Natural Doors and Windows (221)]]; and make one of the windows in the room a special one, so that a place gathers itself around it - [[Window Place (180)]]. Use [[Deep Reveals (223)]] and [[Filtered Light (238)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 746.
 > #high-confidence 

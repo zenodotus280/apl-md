@@ -15,5 +15,6 @@ Use ultra-lightweight 40 to 60 pounds perlite concrete for the compressive fill 
 Build up the columns first, then fill them with the ultra-lightweight concrete; then build up the beams and fill them; then the vaults, and cover them with a thin coat of concrete which hardens to form a shell; then fill that shell with even lighter weight materials to form the floors; then make the walls and window frames, and fill them; and finally, the roof, again a thin cloth vault covered with a coat of concrete to form a shell - [[Box Columns (216)]], [[Perimeter Beams (217)]], [[Wall Membranes (218)]], [[Floor-Ceiling Vaults (219)]], [[Roof Vaults (220)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 962.
 > #high-confidence 

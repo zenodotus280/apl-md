@@ -10,5 +10,6 @@
 Remember to place reinforcing in such a way that the perimeter beam acts in a horizontal direction as well as vertical. When it forms the base for a [[Floor-Ceiling Vaults (219)]] it must be able to act as a ring beam to resist all those residual horizontal outward thrusts not contained by the vault. Strengthen the connection between the columns and the perimeter beam with diagonal braces where the columns are free standing [[Column Connections (227)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1018.
 > #medium-confidence 

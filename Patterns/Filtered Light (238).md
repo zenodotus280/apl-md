@@ -10,5 +10,6 @@
 You can do this, most easily, with climbing plants trained to climb around the outside of the window - [[Climbing Plants (246)]]. If there are no plants, you can also do it beautifully with simple canvas awnings [[Canvas Roofs (244)]], perhaps colored [[Warm Colors (250)]]. You can also help to filter light by making the panes smaller, more delicate, and more elaborate high in the window where the light is strong - [[Small Panes (239)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1105.
 > #medium-confidence 

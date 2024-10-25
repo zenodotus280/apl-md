@@ -10,5 +10,6 @@
 Where chairs are placed alone and where chairs are gathered, reinforce the character of the places which the chairs create with [[Pools of Light (252)]], each local to the group of chairs it marks ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1157.
 > #low-confidence 

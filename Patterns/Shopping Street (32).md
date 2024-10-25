@@ -10,5 +10,6 @@
 Treat the physical character of the street like any other [[Pedestrian Street (100)]] on the [[Network of Paths and Cars (52)]], at right angles to major [[Parallel Roads (23)]]; have as many shops as small as possible -- [[Individually Owned Shops (87)]]; where the shopping street crosses the road, make the crossing wide, giving priority to the pedestrians -- [[Road Crossing (54)]]; parking can easily be provided by a single row of parking spaces in an alley lying behind the shops -- all along the backs of the shops, off the alley, with the parking spaces walled, and perhaps even given canvas roofs, so that they don't destroy the area -- [[Shielded Parking (97)]], [[Canvas Roofs (244)]]. Make sure that every shopping street includes a [[Market of Many Shops (46)]], and some [[Housing In Between (48)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 174.
 > #medium-confidence 

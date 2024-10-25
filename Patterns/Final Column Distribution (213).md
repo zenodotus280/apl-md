@@ -23,5 +23,6 @@ And make wall thicknesses and column thicknesses vary with the height - see [[Wa
 Column thicknesses must be proportional to wall thicknesses, so that the thinnest walls have the thinnest columns. If they are very thin, it will be possible to make them simply by placing boards, or one thickness of material, outside the outer skins which form the wall membrane - see [[Wall Membranes (218)]]. If the walls are thick, they will need to be full columns, twice as thick as the walls, and roughly square in section, built before the walls, but made in such a way that they can be poured integrally with the walls - [[Box Columns (216)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 995.
 > #high-confidence 

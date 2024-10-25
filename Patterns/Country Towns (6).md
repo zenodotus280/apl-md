@@ -10,6 +10,7 @@
 Treat each of these small towns as a political community, with full provision for all the stages of human life -- [[Community of 7000 (12)]], [[Life Cycle (26)]]. Treat the belt of open country which surrounds the town as farm land which belongs to the people and can be freely used by them -- [[The Countryside (7)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 33.
 > #medium-confidence 
 > 

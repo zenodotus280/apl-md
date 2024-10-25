@@ -10,5 +10,6 @@
 Perhaps the most important part of an old age cottage is the front porch and front door bench outside the door, right on the street - [[Private Terrace on the Street (140)]], [[Front Door Bench (242)]]; for the rest, arrange the cottage pretty much according to the layout of any [[House for One Person (78)]]; make provisions for [[Settled Work (156)]]; and give the cottage a [[Street Windows (164)]]. And for the shape of the cottage start with [[The Shape of Indoor Space (191)]] and [[Structure Follows Social Spaces (205)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 729.
 > #high-confidence 

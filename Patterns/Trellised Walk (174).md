@@ -10,5 +10,6 @@
 Think about the columns that support the trellis as themselves capable of creating places - seats, bird feeders - [[Column Place (226)]]. Pave the path with loosely set stones - [[Paving With Cracks Between the Stones (247)]] - Use climbing plants and a fine trellis work to create the special quality of soft, filtered light underneath the trellis - [[Filtered Light (238)]], [[Climbing Plants (246)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 809.
 > #high-confidence 
