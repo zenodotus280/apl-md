@@ -166,7 +166,7 @@ The workgroups, including all kinds of workshops and offices and even children's
 81. [[Small Services Without Red Tape (81) | Small Services Without Red Tape]]
 82. [[Office Connections (82) | Office Connections]]
 83. [[Master and Apprentices (83) | Master and Apprentice]]
-84. [[Teenage Society (84)| Teenage Society]]
+84. [[Teenage Society (84) | Teenage Society]]
 85. [[Shopfront Schools (85) | Shopfront Schools]]
 86. [[Children's Home (86) | Children's Home]]
 
@@ -343,7 +343,7 @@ Go back inside of the building and attach the necessary minor rooms and alcoves 
 186. [[Communal Sleeping (186) | Communal Sleeping]]
 187. [[Marriage Bed (187) | Marriage Bed]]
 188. [[Bed Alcove (188) | Bed Alcove]]
-189. [[Dressing Rooms (189)| Dressing Room]]
+189. [[Dressing Rooms (189) | Dressing Room]]
 
 ---
 
