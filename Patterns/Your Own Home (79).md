@@ -10,5 +10,6 @@
 For the shape of the house, begin with [[Building Complex (95)]]. For the shape of the lot, do not accept the common notion of a lot which has a narrow frontage and a great deal of depth. Instead, try to make every house lot roughly square, or even long along the street and shallow. All this is necessary to create the right relation between house and garden - [[Half-Hidden Garden (111)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 392.
 > #high-confidence 

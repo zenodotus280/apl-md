@@ -10,5 +10,6 @@
 Place the ribbons near enough to [[Ring Roads (17)]] so that trucks can pass directly from the ribbons to the ring road, without having to pass through any other intermediate areas. Develop the internal layout of the industrial ribbon like any other work community, though slightly more spread out -- [[Work Community (41)]]. Place the important buildings of each industry, the "heart" of the plant, toward the edge of the ribbon to form usable streets and outdoor space -- [[Positive Outdoor Space (106)]], [[Building Fronts (122)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 227.
 > #medium-confidence 

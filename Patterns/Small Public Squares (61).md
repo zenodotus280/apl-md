@@ -10,5 +10,6 @@
 An even better estimate for the size of the square: make a guess about the number of people who will typically be there (say, P), and make the area of the square no greater than 150 to 300P square feet - [[Pedestrian Density (123)]]; ring the square around with pockets of activity where people congregate - [[Activity Pockets (124)]] ; build buildings round the square in such a way that they give it a definite shape, with views out into other larger places - [[Positive Outdoor Space (106)]], [[Hierarchy of Open Space (114)]], [[Building Fronts (122)]], [[Stair Seats (125)]]; and to make the center of the square as useful as the edges, build [[Something Roughly in the Middle (126)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 310.
 > #high-confidence 

@@ -10,5 +10,6 @@
 On one side or the other of the road make the pedestrian path swell out to form a tiny square, where food stands cluster round a bus stop -- [[Small Public Squares (61)]], [[Bus Stop (92)]], [[Food Stands (93)]]; provide one or two bays for standing space for buses and cars -- [[Small Parking Lots (103)]], and when a path must run from the road crossing along the side of the road, keep it to one side only, make it as wide as possible, and raised above the roadway -- [[Raised Walk (55)]]. Perhaps build the canopy as a trellis or canvas roof -- [[Trellised Walk (174)]], [[Canvas Roofs (244)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 280.
 > #low-confidence 

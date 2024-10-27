@@ -10,5 +10,6 @@
 Make a full gateway to the neighborhood next to the bus stop, or place the bus stop where the best gateway is already - [[Main Gateways (53)]]; treat the physical arrangement according to the patterns for [[Public Outdoor Room (69)]], [[Path Shape (121)]], and [[A Place to Wait (150)]]; provide a [[Food Stands (93)]]: place the seats according to sun, wind protection, and view - [[Seat Spots (241)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 451.
 > #medium-confidence 

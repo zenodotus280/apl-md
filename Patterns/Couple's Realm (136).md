@@ -10,5 +10,6 @@
 Even if it's very tiny, give it a sitting area, a place to relax, read, make love, play music - [[Sitting Circle (185)]]. Give it [[Light on Two Sides of Every Room (159)]]. At the heart of the couple's realm, place the bed - [[Marriage Bed (187)]] so it has morning light - [[Sleeping to the East (138)]], and, beside it, the [[Dressing Rooms (189)]] ; if possible, try to place the bathing room to open off the couple's realm - [[Bathing Room (144)]]. For the shape of this room in fine detail and its construction, see [[The Shape of Indoor Space (191)]]. And keep the area private with a [[Low Doorway (224)]] or two doors - [[Closets Between Rooms (198)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 648.
 > #medium-confidence 

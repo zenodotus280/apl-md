@@ -14,6 +14,7 @@ At the highest densities, 3 or 4 stories, and along pedestrian streets, break th
 Arrange the buildings in the complex to form realms of movement - [[Circulation Realms (98)]]; build one building from the collection as a main building - the natural center of the site [[Main Building (99)]]; place individual buildings where the land is least beautiful, least healthy - [[Site Repair (104)]]; and put them to the north of their respective open space to keep the gardens sunny - [[South Facing Outdoors (105)]]; subdivide them further, into narrow wings, no more than 25 or 30 feet across [[Wings of Light (107)]]. For details of construction, start with [[Structure Follows Social Spaces (205)]]. 
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 468.
 > #high-confidence 
 >

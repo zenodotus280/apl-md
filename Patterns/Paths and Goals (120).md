@@ -10,5 +10,6 @@
 All the ordinary things in the outdoors - trees, fountains, entrances, gateways, seats, statues, a swing, an outdoor room - can be the goals. See [[Family of Entrances (102)]], [[Main Entrance (110)]], [[Tree Places (171)]], [[Seat Spots (241)]], [[Raised Flowers (245)]]; build the "goals" according to the rules of [[Something Roughly in the Middle (126)]]; and shape the paths according to [[Path Shape (121)]]. To pave the paths use [[Paving With Cracks Between the Stones (247)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 585.
 > #medium-confidence 

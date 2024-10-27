@@ -10,5 +10,6 @@
 Where paths have to run along major roads -- as they do occasionally -- build them 18 inches higher than the road, on one side of the road only, and twice the usual width -- [[Raised Walk (55)]]; on [[Green Streets (51)]] the paths can be in the road since there is nothing but grass and paving stones there; but even then, occasional narrow paths at right angles to the green streets are very beautiful. Place the paths in detail according to [[Path Shape (121)]]. Finally, treat the important street crossings and crosswalks, raised to the level of the pedestrian path -- so cars have to slow as they go over them -- [[Road Crossing (54)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 270.
 > #high-confidence 

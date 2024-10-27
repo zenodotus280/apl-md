@@ -10,5 +10,6 @@
 The construction of floor vaults will create variations in ceiling height almost automatically since the vault starts about 6 feet 6 inches high and rises a further distance which is one - fifth of the room diameter - [[Floor-Ceiling Vaults (219)]]. Where ceiling height varies within one story, put storage in the spaces between the different heights - [[Bulk Storage (145)]]. Get the shape of individual rooms under any given ceiling height from [[The Shape of Indoor Space (191)]] and [[Structure Follows Social Spaces (205)]]; and vary ceiling heights from story to story - the highest ceilings on the ground floor and the lowest on the top floor - see the table in [[Final Column Distribution (213)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 876.
 > #high-confidence 

@@ -10,5 +10,6 @@
 To make foundations like this for hollow concrete, filled box columns, start with a pit for each foundation, place the hollow column in the pit, and pour the column and the foundation integrally, in one continuous pour - [[Box Columns (216)]]. Later, when you build the ground floor slab, tie the concrete into the foundations - [[Ground Floor Slab (215)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1006.
 > #low-confidence 

@@ -12,5 +12,6 @@ If you have also marked the places where it makes sense to build seats - [[Seat 
 Place the walls to coincide with natural seat spots, so that extra benches are not necessary - [[Seat Spots (241)]]; make them of brick or tile, if possible - [[Soft Tile and Brick (248)]]; if they separate two areas of slightly different height, pierce them with holes to make them balustrades - [[Ornament (249)]]. Where they are in the sun, and can be large enough, plant flowers in them or against them - [[Raised Flowers (245)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1124.
 > #high-confidence 

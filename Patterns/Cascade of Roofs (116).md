@@ -11,5 +11,6 @@
 Make the roofs a combination of steeply pitched or domed, and flat shapes - [[Sheltering Roof (117)]], [[Roof Garden (118)]]. Prepare to place small rooms at the outside and ends of wings, and large rooms in the middle - [[Ceiling Height Variety (190)]]. Later, once the plan of the building is more exactly defined, you can lay out the roofs exactly to fit the cascade to individual rooms; and at that stage the cascade will begin to have a structural effect of great importance - [[Structure Follows Social Spaces (205)]], [[Roof Layout (209)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 565.
 > #medium-confidence 

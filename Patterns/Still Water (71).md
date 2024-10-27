@@ -10,5 +10,6 @@
 If possible, arrange the pool as part of a system of natural running water, so that it purifies itself, and does not have to be chlorinated - [[Pools and Streams (64)]]. Make sure the pool has southern exposure - [[South Facing Outdoors (105)]]. If possible, embellish the edge of the pool with a small outdoor room or trellis, where people can sit and watch - [[Public Outdoor Room (69)]], [[Trellised Walk (174)]], [[Sitting Wall (243)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 358.
 > #medium-confidence 

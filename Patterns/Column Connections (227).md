@@ -10,5 +10,6 @@
 The connection is one of the most natural places for [[Ornament (249)]]: there is a wide variety of possible connections, carvings, fretwork, painting, for this critical position. In certain cases, the connection may act as an umbrella for a [[Column Place (226)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1068.
 > #high-confidence 

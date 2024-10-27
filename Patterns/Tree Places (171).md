@@ -10,5 +10,6 @@
 Make the trees form "rooms" and spaces, avenues, and squares, and groves, by placing trellises between the trees, and walks, and seats under the trees themselves - [[Outdoor Room (163)]], [[Trellised Walk (174)]], [[Garden Seat (176)]], [[Seat Spots (241)]]. One of the nicest ways to make a place beside a tree is to build a low wall, which protects the roots and makes a seat - [[Sitting Wall (243)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 797.
 > #high-confidence 

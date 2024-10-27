@@ -10,6 +10,7 @@
 Keep town and city development along the hilltops and hillsides -- [[City Country Fingers (3)]]. And in the valleys, treat the ownership of the land as a form of stewardship, embracing basic ecological responsibilities -- [[The Countryside (7)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 26.
 > #medium-confidence 
 > 

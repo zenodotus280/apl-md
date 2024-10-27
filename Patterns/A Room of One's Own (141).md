@@ -10,5 +10,6 @@
 Use this pattern as an antidote to the extremes of "togetherness" created by [[Common Areas at the Heart (129)]]. Even for small children, give them at least an alcove in the communal sleeping area - [[Bed Alcove (188)]]; and for the man and woman, give each of them a separate room, beyond the couples realm they share; it may be an expanded dressing room - [[Dressing Rooms (189)]], a home workshop - [[Home Workshop (157)]], or once again, an alcove off some other room - [[Alcoves (179)]], [[Workspace Enclosure (183)]] - If there is money for it, it may even be possible to give a person a cottage, attached to the main structure - [[Teenager's Cottage (154)]], [[Old Age Cottage (155)]]. In every case there must at least be room for a desk, a chair, and [[Things From Your Life (253)]]. And for the detailed shape of the room, see [[Light on Two Sides of Every Room (159)]] and [[The Shape of Indoor Space (191)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 668.
 > #high-confidence 

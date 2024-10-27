@@ -15,5 +15,6 @@
 Place the most important part of the working surface in the sunlight - [[Sunny Counter (199)]]; put all the kitchen tools and plates and saucepans and nonperishable food around the walls, one deep, so all of it is visible, and all of it directly open to reach - [[Thick Walls (197)]], [[Open Shelves (200)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 853.
 > #medium-confidence 

@@ -10,5 +10,6 @@
 If possible, keep them in places which are quiet - [[Quiet Backs (59)]]; and provide a simple seat or a bench under a tree, where people can be alone with their memories - [[Tree Places (171)]], [[Seat Spots (241)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 353.
 > #medium-confidence 

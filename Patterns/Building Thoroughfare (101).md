@@ -10,5 +10,6 @@
 Treat the thoroughfare as much like a [[Pedestrian Street (100)]] as possible, with [[Open Stairs (158)]] coming into it from upper storys. Place entrances, reception points, and seats to form the pockets of activity under the lower ceilings at the edges [[Family of Entrances (102)]], [[Activity Pockets (124)]], [[Reception Welcomes You (149)]], [[Window Place (180)]], [[Ceiling Height Variety (190)]], and give these places strong natural light - [[Tapestry of Light and Dark (135)]]. Make a connection to adjacent rooms with [[Interior Windows (194)]] and [[Solid Doors with Glass (237)]]. To give the building thoroughfare the proper sense of liveliness, calculate its overall size according to [[Pedestrian Density (123)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 492.
 > #low-confidence 

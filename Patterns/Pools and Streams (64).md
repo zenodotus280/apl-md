@@ -11,5 +11,6 @@
 If at all possible, make all the pools and swimming holes part of the running water - not separate since this is the only way that pools are able to keep alive and clean without the paraphernalia of pumps and chlorine - [[Still Water (71)]]. Sometimes, here and there, give the place immediately around the water the atmosphere of contemplation; perhaps with arcades, perhaps some special common land, perhaps one end of a promenade - [[Promenade (31)]], [[Holy Ground (66)]], [[Arcades (119)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 322.
 > #medium-confidence 

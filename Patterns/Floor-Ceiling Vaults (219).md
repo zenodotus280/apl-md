@@ -14,5 +14,6 @@ Put all the upper columns in position before you pour the floor of the vault, so
 To finish the under surface of the vault paint it or plaster it - [[Soft Inside Walls (235)]]. As for the floor surface above, either wax it and polish it or cover it with soft materials - [[Floor Surface (233)]]
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1027.
 > #high-confidence 

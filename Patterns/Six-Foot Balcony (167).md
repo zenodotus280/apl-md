@@ -10,5 +10,6 @@
 Enclose the balcony with a low wall - [[Sitting Wall (243)]], heavy columns - [[Column Place (226)]], and half-open walls or screens - [[Half-Open Wall (193)]]. Keep it open toward the south - [[Sunny Place (161)]]. Treat it as an [[Outdoor Room (163)]], and get the details of its shape and its construction from [[The Shape of Indoor Space (191)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 781.
 > #high-confidence 

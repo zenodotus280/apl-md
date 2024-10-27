@@ -10,5 +10,6 @@
 Where the thickness is 3 or 4. feet, build the thickness and the volume of the walls according to the process described in [[Thickening the Outer Walls (211)]]; where it is less, a foot or 18 inches, build it from open shelves stretched between deep vertical columns - [[Open Shelves (200)]], [[Columns at the Corners (212)]]. Get the detailed position of the various things within the wall from the patterns which define them: [[Window Place (180)]], [[Closets Between Rooms (198)]], [[Sunny Counter (199)]], [[Waist-High Shelf (201)]], [[Built-in Seats (202)]], [[Child Caves (203)]], [[Secret Place (204)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 908.
 > #high-confidence 

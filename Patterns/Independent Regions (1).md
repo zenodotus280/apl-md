@@ -8,6 +8,7 @@
 ... within each region encourage the population to distribute itself as widely as possible across the region -- [[The Distribution of Towns (2)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 10.
 > #high-confidence 
 > 

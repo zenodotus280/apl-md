@@ -10,5 +10,6 @@
 Give the university a [[Promenade (31)]] as its central crossroads; and around the crossroads cluster the buildings along streets -- [[Building Complex (95)]]; [[Pedestrian Street (100)]]. Give this central area access to quiet green -- [[Quiet Backs (59)]]; and a normal distribution of housing -- [[Housing In Between (48)]]; as for the classes, wherever possible let them follow the model of [[Master and Apprentices (83)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 231.
 > #low-confidence 

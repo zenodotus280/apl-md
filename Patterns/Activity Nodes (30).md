@@ -10,5 +10,6 @@
 Connect those centers which are most dense, with a wider, more important path for strolling -- [[Promenade (31)]]; make special centers for night activities -- [[Night Life (33)]]; whenever new paths are built, make certain that they pass through the centers, so that they intensify the life still further -- [[Paths and Goals (120)]]; and differentiate the paths so they are wide near the centers and smaller away from them -- [[Degrees of Publicness (36)]]. At the heart of every center, build a small public square -- [[Small Public Squares (61)]], and surround each square with an appropriate mix of mutually self-reinforcing facilities -- [[Work Community (41)]], [[University as a Marketplace (43)]], [[Local Town Hall (44)]], [[Health Center (47)]], [[Birth Places (65)]], [[Teenage Society (84)]], [[Shopfront Schools (85)]], [[Individually Owned Shops (87)]], [[Street Cafe (88)]], [[Beer Hall (90)]], [[Food Stands (93)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 163.
 > #high-confidence 

@@ -10,5 +10,6 @@
 Get the details of the light from [[Pools of Light (252)]] ; and choose the colors to make the place warm and dark and comfortable at night - [[Warm Colors (250)]]; put a few soft chairs nearby - [[Different Chairs (251)]]; or put [[Built-in Seats (202)]] with big cushions against one wall; and for the storage space - [[Open Shelves (200)]] and [[Waist-High Shelf (201)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 844.
 > #low-confidence 

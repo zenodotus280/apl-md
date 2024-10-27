@@ -10,5 +10,6 @@
 If possible, place the backs where there is water - [[Pools and Streams (64)]], [[Still Water (71)]], and where there are still great trees unharmed by traffic - [[Tree Places (171)]] ; connect them to [[Accessible Green (60)]]; and protect them from noise with walls or buildings - [[Garden Wall (173)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 301.
 > #medium-confidence 

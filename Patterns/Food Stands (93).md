@@ -10,5 +10,6 @@
 Treat these food stands as [[Activity Pockets (124)]] when they are part of a square; Use canvas roofs to make a simple shelter over them - [[Canvas Roofs (244)]] ; and keep them in line with the precepts of [[Individually Owned Shops (87)]]: the best food always comes from people who are in business for themselves, who buy the raw food, and prepare it in their own style ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 454.
 > #medium-confidence 

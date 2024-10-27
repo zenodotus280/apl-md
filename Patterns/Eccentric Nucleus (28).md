@@ -15,5 +15,6 @@
 Given this overall configuration, now calculate the average densities at different distances from this ridge of high density, according to the computations given in the next pattern -- [[Density Rings (29)]]; keep major shopping streets and promenades toward the dense part of the horseshoe -- [[Activity Nodes (30)]], [[Promenade (31)]], [[Shopping Street (32)]]; and keep quiet areas toward the open part of the horseshoe -- [[Sacred Sites (24)]], [[Quiet Backs (59)]], [[Still Water (71)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 150.
 > #medium-confidence 

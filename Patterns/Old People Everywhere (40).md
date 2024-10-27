@@ -16,5 +16,6 @@
 Treat the core like any group house; make sure all the cottages, both those close to and those further away, small - [[Old Age Cottage (155)]], some of them perhaps connected to the larger family houses in the neighborhoods - [[The Family (75)]]; provide every second or third core with proper nursing facilities; somewhere in the orbit of the old age pocket, provide the kind of work which old people can manage best - especially teaching and looking after tiny children - [[Network of Learning (18)]], [[Children's Home (86)]], [[Settled Work (156)]], [[Vegetable Garden (177)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 215.
 > #high-confidence 

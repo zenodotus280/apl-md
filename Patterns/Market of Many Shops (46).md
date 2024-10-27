@@ -10,5 +10,6 @@
 Make the aisles wide enough for small delivery carts and for a a dense throng of pedestrians -- perhaps 6 to 12 feet wide -- [[Building Thoroughfare (101)]]; keep the stalls extremely small so that the rent is low -- perhaps no more than six by nine feet -- [[Individually Owned Shops (87)]]; define the stalls with columns at the corners only -- [[Columns at the Corners (212)]]; perhaps even let the owners make roofs for themselves -- [[Canvas Roofs (244)]]; connect the aisles with the outside so that the market is a direct continuation of the pedestrian paths in the city just around it -- [[Pedestrian Street (100)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 246.
 > #high-confidence 

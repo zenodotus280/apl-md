@@ -10,5 +10,6 @@
 Make the individual houses and cottages as long and thin as possible - [[Long Thin House (109)]]; vary the houses according to the different household types - [[The Family (75)]], [[House for a Small Family (76)]], [[House for a Couple (77)]], [[House for One Person (78)]]; build roads across the paths, at right angles to them - [[Parallel Roads (23)]], [[Network of Paths and Cars (52)]], with small parking lots off the roads - [[Small Parking Lots (103)]]. In other respects build row houses in clusters [[House Cluster (37)]], [[Building Complex (95)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 204.
 > #medium-confidence 

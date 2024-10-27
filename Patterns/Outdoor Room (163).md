@@ -10,5 +10,6 @@
 This outdoor room is formed, most often, by free standing columns - [[Column Place (226)]], walls - [[Garden Wall (173)]], low [[Sitting Wall (243)]], perhaps a trellis overhead - [[Trellised Walk (174)]], or a translucent canvas awning - [[Canvas Roofs (244)]], and a ground surface which helps to provide [[Connection to the Earth (168)]]. Like any other room, for its construction start with [[The Shape of Indoor Space (191)]] and [[Structure Follows Social Spaces (205)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 764.
 > #high-confidence 

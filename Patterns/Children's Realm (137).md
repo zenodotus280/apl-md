@@ -10,5 +10,6 @@
 As you place this swath between the children's beds and the street, place the [[Farmhouse Kitchen (139)]] and the [[Home Workshop (157)]] to one side of the path, touching it, yet not violated by it. Do the same for [[Bathing Room (144)]], and give it some connection to the children's beds. Develop the cluster of children's beds according to [[Bed Cluster (143)]]; make the long passages which form the realm as light and warm as possible - [[Short Passages (132)]]; make the [[Outdoor Room (163)]] large enough for boisterous activity ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 651.
 > #medium-confidence 

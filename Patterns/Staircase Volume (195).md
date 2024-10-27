@@ -11,5 +11,6 @@
 Construct the staircase as a vault, within a space defined by columns, just like every other room - [[Columns at the Corners (212)]], [[Stair Vault (228)]]. And make the most of the staircase; underneath it is a place where the children can play and hide - [[Child Caves (203)]]; and it is a place to sit and talk - [[Stair Seats (125)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 900.
 > #medium-confidence 

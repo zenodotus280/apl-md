@@ -10,5 +10,6 @@
 You can define the room with columns, one at each corner - [[Columns at the Corners (212)]]; and the shape of the ceiling can be given exactly by the ceiling vault - [[Floor and Ceiling Layout (210)]], [[Floor-Ceiling Vaults (219)]]. Avoid curved walls except where they are strictly necessary - [[Wall Membranes (218)]]. Where occasional curved walls like bay windows do jut out into the outside, place them to help create [[Positive Outdoor Space (106)]]. Make the walls of each room generous and deep - [[Thick Walls (197)]], [[Closets Between Rooms (198)]]; and where it is appropriate, make them [[Half-Open Wall (193)]]. For the patterns on the load-bearing structure, engineering, and construction, begin with [[Structure Follows Social Spaces (205)]]
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 883.
 > #high-confidence 

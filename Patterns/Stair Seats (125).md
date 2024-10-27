@@ -10,5 +10,6 @@
 Give the stair seats the same orientation as [[Seat Spots (241)]]. Make the steps out of wood or tile or brick so that they wear with time, and show the marks of feet, and are soft to the touch for people sitting on them - [[Soft Tile and Brick (248)]]; and make the steps connect directly to surrounding buildings - [[Connection to the Earth (168)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 603.
 > #medium-confidence 

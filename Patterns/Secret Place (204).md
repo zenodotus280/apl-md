@@ -10,5 +10,6 @@
 Classic types of secret places are the panel that slides back, revealing the cavity in the wall, the loose board beneath the rug, the trap door - [[Closets Between Rooms (198)]], [[Thickening the Outer Walls (211)]], [[Floor-Ceiling Vaults (219)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 930.
 > #low-confidence

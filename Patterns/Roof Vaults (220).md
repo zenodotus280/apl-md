@@ -10,5 +10,6 @@
 Leave space for dormers at intervals along the vault - [[Dormer Windows (231)]], and build them integral with it. Finish the roof with [[Roof Caps (232)]]. And once the vault is complete, it needs a waterproof paint or skin applied to its outer surface - [[Lapped Outside Walls (234)]]. It can be painted white to protect it against the sun; the undulations will carry the rainwater ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1036.
 > #medium-confidence 

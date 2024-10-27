@@ -14,5 +14,6 @@ If the density is so high all around, that it is quite impossible to leave 50 pe
 Give each story a different ceiling height - bottom story biggest, top story smallest - and vary the column spacings accordingly - [[Final Column Distribution (213)]]. The same building system applies, whether there are 1, 2, 3 or 4 stories - [[Structure Follows Social Spaces (205)]].
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 473.
 > #medium-confidence 

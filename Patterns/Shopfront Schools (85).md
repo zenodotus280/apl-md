@@ -10,5 +10,6 @@
 Place the school on a pedestrian street - [[Pedestrian Street (100)]]; near other functioning workshops - [[Self-Governing Workshops and Offices (80)]] and within walking distance of a park - [[Accessible Green (60)]]. Make it an identifiable part of the building it is part of - [[Building Complex (95)]]; and give it a good strong opening at the front, so that it is connected with the street-[[Opening to the Street (165)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 420.
 > #low-confidence 

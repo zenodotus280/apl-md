@@ -10,5 +10,6 @@
 Make especially sure there are provisions for old people in every neighbourhod - [[Old People Everywhere (40)]], and that even with this mix, young children will have enough playmates - [[Connected Play (68)]]; and build the details of the different kinds of households, according to the appropriate more detailed patterns to reinforce the mix - [[The Family (75)]], [[House for a Small Family (76)]], [[House for a Couple (77)]], [[House for One Person (78)]]....
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 188.
 > #medium-confidence 

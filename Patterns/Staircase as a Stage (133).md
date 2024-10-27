@@ -10,5 +10,6 @@
 Treat the bottom steps as [[Stair Seats (125)]]; provide a window or a view half-way up the stair, both to light the stair and to create a natural focus of attention - [[Zen View (134)]], [[Tapestry of Light and Dark (135)]]; remember to calculate the length and shape of the stair while you are working out its position - [[Staircase Volume (195)]]. Get the final shape of the staircase room and the beginnings of its construction from [[The Shape of Indoor Space (191)]] ...
 
 ---
+
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 637.
 > #low-confidence 
