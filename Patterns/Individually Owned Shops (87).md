@@ -12,4 +12,6 @@ Treat each individual shop as an identifiable unit of a larger [[Building Comple
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 432.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Local-Gathering

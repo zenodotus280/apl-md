@@ -12,4 +12,6 @@ Treat the bottom steps as [[Stair Seats (125)]]; provide a window or a view half
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 637.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Light-and-Space

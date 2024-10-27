@@ -12,4 +12,6 @@ Within the framework of the four-story limit the exact height of individual buil
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 114.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Community-Policies

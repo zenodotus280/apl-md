@@ -12,4 +12,6 @@ On one side or the other of the road make the pedestrian path swell out to form 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 280.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Local-Networking

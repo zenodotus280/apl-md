@@ -12,4 +12,6 @@ Let [[Half-Hidden Garden (111)]] influence the position of the outdoors too. Mak
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 513.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Siting-the-Buildings

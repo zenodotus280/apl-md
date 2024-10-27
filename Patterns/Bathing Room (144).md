@@ -16,4 +16,6 @@ Above all, make sure that there is light, plenty of light - [[Light on Two Sides
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 681.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Private-Rooms

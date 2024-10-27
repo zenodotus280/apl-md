@@ -12,4 +12,6 @@ Put the tables in two-ended alcoves, roomy enough for people to pass through on 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 444.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Local-Gathering

@@ -12,6 +12,6 @@ Keep town and city development along the hilltops and hillsides -- [[City Countr
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 26.
-> #medium-confidence 
-> 
-> #APL/Towns/Regional-Policies 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Regional-Policies

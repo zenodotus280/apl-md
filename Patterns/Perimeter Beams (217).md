@@ -12,4 +12,6 @@ Remember to place reinforcing in such a way that the perimeter beam acts in a ho
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1018.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Construction-Patterns/Erecting-the-Frame

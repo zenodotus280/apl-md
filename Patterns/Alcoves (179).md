@@ -12,4 +12,6 @@ Give the alcove a ceiling which is markedly lower than the ceiling height in the
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 828.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Minor-Rooms

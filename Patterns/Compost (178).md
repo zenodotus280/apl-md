@@ -12,4 +12,6 @@ Add to the effect of dry composting by re-using waste water; run all water drain
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 822.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Gardens

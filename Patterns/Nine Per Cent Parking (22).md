@@ -12,4 +12,6 @@ Two later patterns say that parking must take one of two forms: tiny, surface pa
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 120.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Community-Policies

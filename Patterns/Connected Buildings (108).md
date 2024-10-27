@@ -12,4 +12,6 @@ Connect buildings with arcades, and outdoor rooms, and courtyards where they can
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 531.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Siting-the-Buildings

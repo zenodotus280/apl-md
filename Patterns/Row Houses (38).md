@@ -12,4 +12,6 @@ Make the individual houses and cottages as long and thin as possible - [[Long Th
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 204.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Housing-Clusters

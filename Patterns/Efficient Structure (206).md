@@ -12,4 +12,6 @@ The layout of the inner vaults is given in [[Floor and Ceiling Layout (210)]] an
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 946.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Construction-Patterns/Emergent-Structure

@@ -12,6 +12,6 @@ To keep main roads for long distance traffic, but not for internal local traffic
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 63
-> #high-confidence 
-> 
-> #APL/Towns/City-Policies
+> #high-confidence
+>
+> #APL/Town-Patterns/City-Policies

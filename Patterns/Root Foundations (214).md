@@ -12,4 +12,6 @@ To make foundations like this for hollow concrete, filled box columns, start wit
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1006.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Construction-Patterns/Erecting-the-Frame

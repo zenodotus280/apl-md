@@ -12,4 +12,6 @@ Place the fireplace most carefully, to be a focus - [[The Fire (181)]] give the 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 705.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Public-Rooms

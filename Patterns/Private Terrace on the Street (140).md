@@ -12,4 +12,6 @@ If possible, place the terrace in a position which is also congruent with natura
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 664.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Private-Rooms

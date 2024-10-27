@@ -12,4 +12,6 @@ Glaze the door with small panes of glass - [[Small Panes (239)]] and make the do
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1103.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Construction-Patterns/Interior-Details

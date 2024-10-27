@@ -12,4 +12,6 @@ Make sure that, in spite of its position in a public area, each house still has 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 256.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Work-Communities

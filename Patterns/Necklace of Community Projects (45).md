@@ -12,4 +12,6 @@ Make each shop small, compact, and easily accessible like [[Individually Owned S
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 242.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Work-Communities

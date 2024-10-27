@@ -12,4 +12,6 @@ Think about the columns that support the trellis as themselves capable of creati
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 809.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Gardens

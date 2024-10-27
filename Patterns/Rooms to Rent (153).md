@@ -12,4 +12,6 @@ Place the rooms to rent in such a way that they can double as a [[Teenager's Cot
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 720.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Outbuildings

@@ -12,4 +12,6 @@ In making our filled lightweight concrete structures, we have used lapped boards
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1093.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Construction-Patterns/Interior-Details

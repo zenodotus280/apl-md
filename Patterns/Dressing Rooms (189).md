@@ -12,4 +12,6 @@ Place each dressing room so that it gets plenty of natural [[Light on Two Sides 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 872.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Minor-Rooms

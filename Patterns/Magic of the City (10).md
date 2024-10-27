@@ -12,6 +12,6 @@ Treat each downtown as a pedestrian and local transport area -- [[Local Transpor
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 58
-> #low-confidence 
-> 
-> #APL/Towns/City-Policies
+> #low-confidence
+>
+> #APL/Town-Patterns/City-Policies

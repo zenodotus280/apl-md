@@ -14,4 +14,6 @@ Treat the smallest shed roofs, which cover thick walls and alcoves, as buttresse
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 970.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Construction-Patterns/Structural-Layout

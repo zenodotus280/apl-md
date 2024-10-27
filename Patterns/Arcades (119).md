@@ -12,4 +12,6 @@ Keep the arcade low - [[Ceiling Height Variety (190)]]; bring the roof of the ar
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 580.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Between-the-Buildings

@@ -13,3 +13,5 @@ Classic types of secret places are the panel that slides back, revealing the cav
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 930.
 > #low-confidence
+>
+> #APL/Building-Patterns/Thick-Walls

@@ -13,4 +13,6 @@ For example: garden seats open to gardens - [[Garden Seat (176)]], [[Half-Hidden
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 557.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Building-Layout

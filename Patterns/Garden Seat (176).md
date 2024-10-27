@@ -12,4 +12,6 @@ Place the garden seat, like other outdoor seats, where it commands a view, is in
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 815.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Gardens

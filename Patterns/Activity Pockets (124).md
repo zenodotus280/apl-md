@@ -12,4 +12,6 @@ Lead paths between the pockets of activity - [[Paths and Goals (120)]] - and sha
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 599.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Between-the-Buildings

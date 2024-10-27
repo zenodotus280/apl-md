@@ -12,4 +12,6 @@ Get the exact shape of the cross section from [[Roof Vaults (220)]] ; use the sp
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 569.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Building-Layout

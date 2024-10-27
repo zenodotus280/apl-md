@@ -12,4 +12,6 @@ Use the connection to the earth to form the ground for outdoor rooms, and entran
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 785.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Liminal-Space

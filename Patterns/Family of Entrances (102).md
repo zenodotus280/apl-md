@@ -15,4 +15,6 @@ In detail, make the entrances bold and easy to see - [[Main Entrance (110)]] ; w
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 499.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Group-of-Buildings

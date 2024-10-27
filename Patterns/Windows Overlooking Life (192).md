@@ -12,4 +12,6 @@ Fine tune the exact positions of the windows at the time that you build them - [
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 889.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Shaping-the-Rooms

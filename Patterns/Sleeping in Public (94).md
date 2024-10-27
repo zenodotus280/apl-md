@@ -12,4 +12,6 @@ Above all, put the places for sleeping along [[Building Edge (160)]] ; make seat
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 457.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Local-Gathering

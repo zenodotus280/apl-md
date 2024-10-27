@@ -13,4 +13,6 @@ If at all possible, make all the pools and swimming holes part of the running wa
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 322.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Community-Recreation

@@ -12,4 +12,6 @@ Where paths have to run along major roads -- as they do occasionally -- build th
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 270.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Local-Networking

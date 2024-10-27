@@ -12,4 +12,6 @@ Treat these food stands as [[Activity Pockets (124)]] when they are part of a sq
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 454.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Local-Gathering

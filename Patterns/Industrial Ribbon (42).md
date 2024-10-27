@@ -12,4 +12,6 @@ Place the ribbons near enough to [[Ring Roads (17)]] so that trucks can pass dir
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 227.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Work-Communities

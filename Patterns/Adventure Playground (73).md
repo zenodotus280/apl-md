@@ -12,4 +12,6 @@ Make sure that the adventure playground is in the sun - [[Sunny Place (161)]] ; 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 367.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Local-Recreation

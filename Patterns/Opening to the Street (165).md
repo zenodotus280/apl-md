@@ -13,4 +13,6 @@ Give the opening a boundary, when it is entirely open, with a low solid wall whi
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 773.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Liminal-Space

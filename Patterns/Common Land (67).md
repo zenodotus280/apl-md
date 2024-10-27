@@ -12,4 +12,6 @@ Shape the common land so it has some enclosure and good sunlight - [[South Facin
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 336.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Local-Recreation

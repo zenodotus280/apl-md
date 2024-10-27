@@ -12,4 +12,6 @@ Use a fire, and columns, and half-open walls to form the shape of the circle - [
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 857.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Minor-Rooms

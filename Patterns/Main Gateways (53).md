@@ -12,4 +12,6 @@ Make the gateways solid elements, visible from every line of approach, enclosing
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 276.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Local-Networking

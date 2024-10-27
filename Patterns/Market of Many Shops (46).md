@@ -12,4 +12,6 @@ Make the aisles wide enough for small delivery carts and for a a dense throng of
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 246.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Work-Communities

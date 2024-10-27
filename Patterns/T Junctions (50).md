@@ -12,4 +12,6 @@ At busy junctions, where pedestrian paths converge, make a special raised crossi
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 264.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Local-Networking

@@ -12,4 +12,6 @@ Do this by connecting several [[House Cluster (37) | House Clusters (37)]] with 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 341.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Local-Recreation

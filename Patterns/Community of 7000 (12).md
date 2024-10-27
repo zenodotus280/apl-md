@@ -12,6 +12,6 @@ Separate the communities from one another by means of substantial areas -- [[Sub
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 70
-> #medium-confidence 
-> 
-> #APL/Towns/Communities
+> #medium-confidence
+>
+> #APL/Town-Patterns/Communities

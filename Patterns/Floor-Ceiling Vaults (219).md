@@ -16,4 +16,6 @@ To finish the under surface of the vault paint it or plaster it - [[Soft Inside 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1027.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Construction-Patterns/Erecting-the-Frame

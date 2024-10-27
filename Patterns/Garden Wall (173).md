@@ -12,4 +12,6 @@ Use the garden wall to help form positive outdoor space - [[Positive Outdoor Spa
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 805.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Gardens

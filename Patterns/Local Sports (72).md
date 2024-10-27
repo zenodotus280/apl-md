@@ -12,4 +12,6 @@ Treat the sports places as a special class of recognizable simple buildings, whi
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 363.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Local-Recreation

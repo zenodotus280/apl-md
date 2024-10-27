@@ -12,4 +12,6 @@ Treat the building as a collection of small connected buildings - [[Building Com
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 426.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Workgroups

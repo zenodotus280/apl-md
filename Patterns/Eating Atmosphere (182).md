@@ -12,4 +12,6 @@ Get the details of the light from [[Pools of Light (252)]] ; and choose the colo
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 844.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Minor-Rooms

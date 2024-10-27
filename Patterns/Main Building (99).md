@@ -13,4 +13,6 @@ Build all the main paths tangent to the main building, in arcades or glazed corr
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 485.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Group-of-Buildings

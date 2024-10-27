@@ -12,6 +12,6 @@ Place the stops mainly along major roads, as far as this can be consistent with 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 110
-> #medium-confidence 
-> 
-> #APL/Towns/Community-Networking 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Community-Networking

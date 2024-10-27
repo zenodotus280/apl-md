@@ -12,4 +12,6 @@ Let people lay out their own houses individually, upon the terraces, just as if 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 209.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Housing-Clusters

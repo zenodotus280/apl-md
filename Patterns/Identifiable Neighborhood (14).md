@@ -12,6 +12,6 @@ Mark the neighbourhood, above all, by gateways wherever main paths enter it -- [
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 80
-> #high-confidence 
-> 
-> #APL/Towns/Communities 
+> #high-confidence
+>
+> #APL/Town-Patterns/Communities

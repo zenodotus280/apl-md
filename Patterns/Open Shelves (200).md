@@ -12,4 +12,6 @@ At waist height put in an extra deep shelf for plates, phonograph, TV, boxes, di
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 919.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Thick-Walls

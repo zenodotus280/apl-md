@@ -12,4 +12,6 @@ Treat the physical layout of the night life area exactly like any other [[Activi
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 179.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Local-Centers

@@ -15,6 +15,6 @@ Always place the high speed roads on boundaries between subcultures -- [[Subcult
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 96
-> #low-confidence 
-> 
-> #APL/Towns/Community-Networking 
+> #low-confidence
+>
+> #APL/Town-Patterns/Community-Networking

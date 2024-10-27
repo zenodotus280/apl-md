@@ -12,4 +12,6 @@ Place the school on a pedestrian street - [[Pedestrian Street (100)]]; near othe
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 420.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Workgroups

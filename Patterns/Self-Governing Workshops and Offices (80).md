@@ -12,4 +12,6 @@ House the workgroup in a building of its own - [[Office Connections (82)]], [[Bu
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 398.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Workgroups

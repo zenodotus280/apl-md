@@ -14,4 +14,6 @@ The vaulted space under the stair can be used as an [[Alcoves (179)]], a [[Child
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1073.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Construction-Patterns/Frame-Adjustments

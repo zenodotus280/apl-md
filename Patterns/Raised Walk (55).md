@@ -12,4 +12,6 @@ Protect the raised walk from the road, by means of a low wall -- [[Sitting Wall 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 285.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Local-Networking

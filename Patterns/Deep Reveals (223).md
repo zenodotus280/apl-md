@@ -12,4 +12,6 @@ Build the depth of the frame so that it is continuous with the structure of the 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1053.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Construction-Patterns/Fenestration

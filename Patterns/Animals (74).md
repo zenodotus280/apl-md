@@ -12,4 +12,6 @@ Make sure that the green areas - [[Green Streets (51)]], [[Accessible Green (60)
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 371.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Local-Recreation

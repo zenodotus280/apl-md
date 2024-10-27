@@ -12,4 +12,6 @@ Even if it's very tiny, give it a sitting area, a place to relax, read, make lov
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 648.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Private-Rooms

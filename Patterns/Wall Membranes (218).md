@@ -14,4 +14,6 @@ Membranes can be made from hollow tile, lightweight concrete block, plywood, gyp
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1023.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Construction-Patterns/Erecting-the-Frame

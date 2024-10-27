@@ -12,4 +12,6 @@ At each threshold between precincts build a gate - [[Main Gateways (53)]] - at e
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 331.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Community-Recreation

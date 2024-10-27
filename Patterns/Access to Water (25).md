@@ -12,4 +12,6 @@ The width of the common land will vary with the types of water and the ecologica
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 135.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Community-Policies

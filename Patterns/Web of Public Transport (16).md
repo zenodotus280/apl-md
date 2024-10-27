@@ -19,6 +19,6 @@ The example given at the end references the contrast between the Swiss railways 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 92
-> #medium-confidence 
-> 
-> #APL/Towns/Community-Networking
+> #medium-confidence
+>
+> #APL/Town-Patterns/Community-Networking

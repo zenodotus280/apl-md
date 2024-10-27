@@ -13,4 +13,6 @@ Construct the staircase as a vault, within a space defined by columns, just like
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 900.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Shaping-the-Rooms

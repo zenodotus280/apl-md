@@ -12,4 +12,6 @@ Put the storage in the apex of the roof if the roof has a steep pitch - [[Shelte
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 687.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Private-Rooms

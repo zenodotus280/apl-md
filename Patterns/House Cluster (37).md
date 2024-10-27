@@ -12,4 +12,6 @@ Use this pattern as it is for low densities, up to about 15 houses per acre; at 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 197.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Housing-Clusters

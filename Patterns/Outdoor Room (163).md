@@ -12,4 +12,6 @@ This outdoor room is formed, most often, by free standing columns - [[Column Pla
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 764.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Liminal-Space

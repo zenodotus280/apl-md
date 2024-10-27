@@ -18,4 +18,6 @@ Treat the core like any group house; make sure all the cottages, both those clos
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 215.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Housing-Clusters

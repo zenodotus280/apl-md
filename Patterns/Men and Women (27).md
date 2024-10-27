@@ -12,4 +12,6 @@ No large housing areas without workshops for men; no work communities which do n
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 146.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Community-Policies

@@ -12,4 +12,6 @@ When a road is a green street, it so pleasant that it naturally tends to attract
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 266.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Local-Networking

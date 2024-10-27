@@ -17,4 +17,6 @@ Arrange these departments in space, according to the prescription of - [[Office 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 404.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Workgroups

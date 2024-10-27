@@ -12,4 +12,6 @@ Do it with arcades, galleries, porches, and terraces [[Arcades (119)]], [[Outdoo
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 752.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Liminal-Space

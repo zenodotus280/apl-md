@@ -12,6 +12,6 @@ Treat each of these small towns as a political community, with full provision fo
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 33.
-> #medium-confidence 
-> 
-> #APL/Towns/Regional-Policies 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Regional-Policies

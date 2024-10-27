@@ -12,4 +12,6 @@ No matter how large the promenade is, there must be enough people coming to it t
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 168.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Local-Centers

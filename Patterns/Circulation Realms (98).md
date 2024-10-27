@@ -12,4 +12,6 @@ Treat the first entrances to the whole system of circulation realms, the very la
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 480.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Group-of-Buildings

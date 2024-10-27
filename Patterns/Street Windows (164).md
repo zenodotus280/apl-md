@@ -12,4 +12,6 @@ On the inside, give each of these windows a substantial place, so that a person 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 769.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Liminal-Space

@@ -13,4 +13,6 @@ Make the roofs a combination of steeply pitched or domed, and flat shapes - [[Sh
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 565.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Building-Layout

@@ -12,4 +12,6 @@ Make a full gateway to the neighborhood next to the bus stop, or place the bus s
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 451.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Local-Gathering

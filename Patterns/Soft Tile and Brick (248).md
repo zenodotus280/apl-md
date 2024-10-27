@@ -13,4 +13,6 @@ The soft pink color helps to create [[Warm Colors (250)]]. Before firing, you ma
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1141.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Construction-Patterns/Outdoor-Details

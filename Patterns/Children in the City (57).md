@@ -12,4 +12,6 @@ Line the children's path with windows, especially from rooms that are in frequen
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 293.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Local-Networking

@@ -12,6 +12,6 @@ The easiest way of all to form a boundary around a neighborhood is by turning bu
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 86
-> #medium-confidence 
-> 
-> #APL/Towns/Communities 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Communities

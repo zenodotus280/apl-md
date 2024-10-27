@@ -12,4 +12,6 @@
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 553.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Building-Layout

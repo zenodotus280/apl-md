@@ -12,4 +12,6 @@ The bench may help to make the entrance visible - [[Main Entrance (110)]]; it ca
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1121.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Construction-Patterns/Outdoor-Details

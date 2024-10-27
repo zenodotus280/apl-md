@@ -12,4 +12,6 @@ Complete the subframe of the casement with [[Small Panes (239)]] ...
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1100.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Construction-Patterns/Interior-Details

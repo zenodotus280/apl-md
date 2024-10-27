@@ -12,4 +12,6 @@ Arrange the workspaces as [[Half-Private Office (152)]] or [[Workspace Enclosure
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 412.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Workgroups

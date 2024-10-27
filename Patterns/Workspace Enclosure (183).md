@@ -12,4 +12,6 @@ For the view, give each workspace a window to the outside - [[Windows Overlookin
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 846.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Minor-Rooms

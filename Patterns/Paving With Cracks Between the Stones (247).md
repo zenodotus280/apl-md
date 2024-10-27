@@ -12,4 +12,6 @@ Use paving with cracks, to help make paths and terraces which change and show th
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1138.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Construction-Patterns/Outdoor-Details

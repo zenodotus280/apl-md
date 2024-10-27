@@ -17,4 +17,6 @@ Build up the columns first, then fill them with the ultra-lightweight concrete; 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 962.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Construction-Patterns/Emergent-Structure

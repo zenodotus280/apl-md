@@ -12,4 +12,6 @@ Place the bandstand in a pocket of activity, toward the edge of a square or a pr
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 319.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Community-Recreation

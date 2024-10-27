@@ -12,6 +12,6 @@ The scattered work itself can take a great variety of forms. It an occur in belt
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 51
-> #high-confidence 
-> 
-> #APL/Towns/City-Policies
+> #high-confidence
+>
+> #APL/Town-Patterns/City-Policies

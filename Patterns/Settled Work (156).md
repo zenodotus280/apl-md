@@ -12,4 +12,6 @@ Arrange the workshop, physically, along the lines defined by [[Home Workshop (15
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 733.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Outbuildings

@@ -12,4 +12,6 @@ Put in windows, bookshelves, and furnishings to make them as much like actual ro
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 632.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Light-and-Space

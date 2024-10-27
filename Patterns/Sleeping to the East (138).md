@@ -12,4 +12,6 @@ Place all the beds with care, so that they get the morning light, not only as a 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 656.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Private-Rooms

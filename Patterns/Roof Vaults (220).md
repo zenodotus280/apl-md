@@ -12,4 +12,6 @@ Leave space for dormers at intervals along the vault - [[Dormer Windows (231)]],
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1036.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Construction-Patterns/Erecting-the-Frame

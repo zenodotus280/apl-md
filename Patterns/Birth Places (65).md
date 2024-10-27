@@ -12,4 +12,6 @@ Include rooms where after the birth the mother and her baby can stay together wi
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 328.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Town-Patterns/Community-Recreation

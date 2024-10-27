@@ -14,6 +14,6 @@ Within each natural preserve, we imagine a limited number of houses -- [[House C
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 36.
-> #medium-confidence 
-> 
-> #APL/Towns/Regional-Policies
+> #medium-confidence
+>
+> #APL/Town-Patterns/Regional-Policies

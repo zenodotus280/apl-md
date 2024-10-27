@@ -12,4 +12,6 @@ Make two separate dressing rooms or alcoves near the bed - [[Dressing Rooms (189
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 864.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Minor-Rooms

@@ -12,4 +12,6 @@ Make the place itself as much as possible like a room - [[Private Terrace on the
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 757.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Liminal-Space

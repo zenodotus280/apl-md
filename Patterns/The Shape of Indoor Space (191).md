@@ -12,4 +12,6 @@ You can define the room with columns, one at each corner - [[Columns at the Corn
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 883.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Shaping-the-Rooms

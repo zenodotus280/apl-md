@@ -12,4 +12,6 @@ Perhaps the most important part of an old age cottage is the front porch and fro
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 729.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Outbuildings

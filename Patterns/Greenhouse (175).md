@@ -12,4 +12,6 @@ Place the greenhouse so that it has easy access to the [[Vegetable Garden (177)]
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 812.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Gardens

@@ -16,4 +16,6 @@ Give each story a different ceiling height - bottom story biggest, top story sma
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 473.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Group-of-Buildings

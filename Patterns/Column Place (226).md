@@ -12,4 +12,6 @@ You can get the extra thickness quite cheaply if you build the column as a [[Box
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1064.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Construction-Patterns/Frame-Adjustments

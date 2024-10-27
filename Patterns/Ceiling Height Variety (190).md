@@ -12,4 +12,6 @@ The construction of floor vaults will create variations in ceiling height almost
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 876.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Building-Patterns/Shaping-the-Rooms

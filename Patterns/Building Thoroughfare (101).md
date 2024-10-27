@@ -12,4 +12,6 @@ Treat the thoroughfare as much like a [[Pedestrian Street (100)]] as possible, w
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 492.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Group-of-Buildings

@@ -12,6 +12,6 @@ We imagine that the smallest subcultures will be no bigger than 150 feet across;
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 42
-> #high-confidence 
-> 
-> #APL/Towns/City-Policies
+> #high-confidence
+>
+> #APL/Town-Patterns/City-Policies

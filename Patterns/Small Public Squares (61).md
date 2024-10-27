@@ -12,4 +12,6 @@ An even better estimate for the size of the square: make a guess about the numbe
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 310.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Community-Recreation

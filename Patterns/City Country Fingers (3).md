@@ -12,6 +12,6 @@ Whenever land is hilly, keep the country fingers in the valleys and the city fin
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 21.
-> #high-confidence 
-> 
-> #APL/Towns/Regional-Policies
+> #high-confidence
+>
+> #APL/Town-Patterns/Regional-Policies

@@ -12,6 +12,6 @@ Make each square mile of countryside, both farm and park, open to the public -- 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 29.
-> #low-confidence 
-> 
-> #APL/Towns/Regional-Policies
+> #low-confidence
+>
+> #APL/Town-Patterns/Regional-Policies

@@ -12,4 +12,6 @@ Above all, to create the shape of the path, move the building fronts into the ri
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 589.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Between-the-Buildings

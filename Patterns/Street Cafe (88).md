@@ -12,4 +12,6 @@ Build a wide, substantial opening between the terrace and the indoors - [[Openin
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 436.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Social-Institutions---Local-Gathering

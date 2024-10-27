@@ -12,4 +12,6 @@ Place the outdoor room where several paths are tangent to it, like any other com
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 348.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Local-Recreation

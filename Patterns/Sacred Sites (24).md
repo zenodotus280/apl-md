@@ -12,4 +12,6 @@ Give every sacred site a place, or a sequence of places, where people can relax,
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 131.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Community-Policies

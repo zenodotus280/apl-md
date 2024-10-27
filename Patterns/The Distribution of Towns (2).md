@@ -14,6 +14,6 @@ As the distribution evolves, protect the prime agricultural land for farming --[
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 16.
-> #low-confidence 
-> 
-> #APL/Towns/Regional-Policies
+> #low-confidence
+>
+> #APL/Town-Patterns/Regional-Policies

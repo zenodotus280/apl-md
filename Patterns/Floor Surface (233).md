@@ -12,4 +12,6 @@ On the hard floor, you can use the same floor as you use on outdoor paths and te
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1088.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Construction-Patterns/Interior-Details

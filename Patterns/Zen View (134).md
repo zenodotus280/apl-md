@@ -13,4 +13,6 @@ Put in the windows to complete the indirectness of the view - [[Natural Doors an
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 641.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Light-and-Space

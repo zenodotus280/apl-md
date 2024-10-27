@@ -12,4 +12,6 @@ Make the square at the heart of the community a public square with public paths 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 222.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Work-Communities

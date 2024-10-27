@@ -12,4 +12,6 @@ Give the stair seats the same orientation as [[Seat Spots (241)]]. Make the step
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 603.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Between-the-Buildings

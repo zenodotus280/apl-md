@@ -16,6 +16,6 @@ For the principles of structure which will make it possible to build your buildi
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 940.
-> #high-confidence 
-> 
-> #APL/Construction/Emergent-Structure
+> #high-confidence
+>
+> #APL/Construction-Patterns/Emergent-Structure

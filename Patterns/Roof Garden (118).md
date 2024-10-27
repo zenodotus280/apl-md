@@ -12,4 +12,6 @@ Remember to try and put the roof gardens at the open ends of [[Wings of Light (1
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 575.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Building-Layout

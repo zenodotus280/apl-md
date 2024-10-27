@@ -12,4 +12,6 @@ Pay special attention to old trees, look after them - [[Tree Places (171)]]; sha
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 304.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Community-Recreation

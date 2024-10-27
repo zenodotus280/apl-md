@@ -12,4 +12,6 @@ In [[Gradual Stiffening (208)]], We shall Work out the way of using these materi
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 955.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Construction-Patterns/Emergent-Structure

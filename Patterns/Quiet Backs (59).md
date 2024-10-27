@@ -12,4 +12,6 @@ If possible, place the backs where there is water - [[Pools and Streams (64)]], 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 301.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Community-Recreation

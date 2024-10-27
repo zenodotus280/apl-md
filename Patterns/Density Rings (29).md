@@ -12,4 +12,6 @@ Within the rings of density, encourage housing to take the form of housing clust
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 156.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Local-Centers

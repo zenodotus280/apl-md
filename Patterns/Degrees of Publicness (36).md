@@ -12,4 +12,6 @@ Use this pattern to help differentiate the houses both in neighborhoods and in h
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 192.
-> #high-confidence 
+> #high-confidence
+>
+> #APL/Town-Patterns/Housing-Clusters

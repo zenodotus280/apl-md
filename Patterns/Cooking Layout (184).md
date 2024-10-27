@@ -17,4 +17,6 @@ Place the most important part of the working surface in the sunlight - [[Sunny C
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 853.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Minor-Rooms

@@ -12,4 +12,6 @@ Build the shelf right into the structure of the building - [[Thickening the Oute
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 922.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Thick-Walls

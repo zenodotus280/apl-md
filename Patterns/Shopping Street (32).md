@@ -12,4 +12,6 @@ Treat the physical character of the street like any other [[Pedestrian Street (1
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 174.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Town-Patterns/Local-Centers

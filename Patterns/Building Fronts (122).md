@@ -12,4 +12,6 @@ Detail the fronts of buildings, indeed the whole building perimeter, according t
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 593.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Between-the-Buildings

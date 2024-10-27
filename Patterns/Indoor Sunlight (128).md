@@ -14,4 +14,6 @@ When you can, open up these indoor sunny rooms to the outdoors, and build a sunn
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 614.
-> #medium-confidence 
+> #medium-confidence
+>
+> #APL/Building-Patterns/Light-and-Space

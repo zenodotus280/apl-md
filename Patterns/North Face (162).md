@@ -12,4 +12,6 @@ Use the triangle inside this north cascade for car, garbage, storage, shed, a st
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 761.
-> #low-confidence 
+> #low-confidence
+>
+> #APL/Building-Patterns/Liminal-Space
