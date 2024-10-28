@@ -7,7 +7,7 @@
 ### Related Patterns
 ... this pattern helps complete the rough shape and location of stairs given by [[Staircase as a Stage (133)]] and by [[Staircase Volume (195)]]. If you want to build a conventional stair, you can find what you need in any handbook. But how to build a stair in a way which is consistent with the compressive structure of [[Efficient Structure (206)]], without using wood or steel or concrete - [[Good Materials (207)]]?
 
-A lightweight concrete tread, colored, waxed, and polished can be quite beautiful and soft enough to be comfortablc - see [[Floor Surface (233)]] - and will eventually take on the patina of wear called for in [[Soft Tile and Brick (248)]].
+A lightweight concrete tread, colored, waxed, and polished can be quite beautiful and soft enough to be comfortable - see [[Floor Surface (233)]] - and will eventually take on the patina of wear called for in [[Soft Tile and Brick (248)]].
 
 The vaulted space under the stair can be used as an [[Alcoves (179)]], a [[Child Caves (203)]], or [[Closets Between Rooms (198)]]. If it is plastered, like a regular ceiling - see [[Floor-Ceiling Vaults (219)]], it makes a much more pleasant and useful space than the space under an ordinary stair.
 

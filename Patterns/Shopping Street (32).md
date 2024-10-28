@@ -2,7 +2,7 @@
 >Shopping centers depend on access: they need locations near major traffic arteries. However, the shoppers themselves don’t benefit from traffic: they need quiet, comfort, and convenience, and access from the pedestrian paths in the surrounding areas.
 
 ### Solution
->Encourage local shopping centres to grow in the form of short pedestrian streets, at right angles to major roads and and opening off these roads—with parking behind the shops, so that the cars can pull directly off the road, and yet not harm the shopping street.
+>Encourage local shopping centers to grow in the form of short pedestrian streets, at right angles to major roads and opening off these roads—with parking behind the shops, so that the cars can pull directly off the road, and yet not harm the shopping street.
 
 ### Related Patterns
 ... this pattern helps to complete the [[Magic of the City (10)]] and [[Promenade (31)]]. And, each time a shopping street gets built, it will also help to generate the [[Web of Shopping (19)]].

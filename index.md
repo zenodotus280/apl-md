@@ -61,7 +61,7 @@ Connect communities to one another by encouraging the growth of the following ne
 
 ---
 ### Community Policies
-Establish community and neighbourhood policy to control the character of the local government according to the following principles;
+Establish community and neighborhood policy to control the character of the local government according to the following principles;
 
 21. [[Four-Story Limit (21) | Four-Story Limit]]
 22. [[Nine Per Cent Parking (22) | Nine Per Cent Parking]]
@@ -73,7 +73,7 @@ Establish community and neighbourhood policy to control the character of the loc
 
 ---
 ### Local Centers
-Both in the neighbourhoods and the communities, and in beween them, in the boundaries, encourage the formation of local centers;
+Both in the neighborhoods and the communities, and in beween them, in the boundaries, encourage the formation of local centers;
 
 28. [[Eccentric Nucleus (28) | Eccentric Nucleus]]
 29. [[Density Rings (29) | Density Rings]]
@@ -123,7 +123,7 @@ Between the house clusters and work communities, allow the local road and path n
 
 --- 
 ### Community Recreation
-In the communities and neighbourhoods, provide public open land where people can relax, rub shoulders, and renew themselves;
+In the communities and neighborhoods, provide public open land where people can relax, rub shoulders, and renew themselves;
 
 58. [[Carnival (58) | Carnival]]
 59. [[Quiet Backs (59) | Quiet Backs]]
@@ -289,7 +289,7 @@ Then the same for offices, workshops, and public buildings;
 ---
 
 ### Outbuildings
-Add those small outbuildings whic must be slightly independent from the main structure, and put in the access from the upper stories to the street and gardens;
+Add those small outbuildings which must be slightly independent from the main structure, and put in the access from the upper stories to the street and gardens;
 
 153. [[Rooms to Rent (153) | Rooms to Rent]]
 154. [[Teenager's Cottage (154) | Teenager's Cottage]]

@@ -2,7 +2,7 @@
 >Without common land no social system can survive.
 
 ### Solution
->Give over 25 percent of the land in house clusters to common land which touches, or is very very near, the homes which share it. Basic: be wary of the automobile; on no account let it dominate this land.
+>Give over 25 percent of the land in house clusters to common land which touches, or is very near, the homes which share it. Basic: be wary of the automobile; on no account let it dominate this land.
 
 ### Related Patterns
 ... just as there is a need for public land at the neighborhood level - [[Accessible Green (60)]], so also, within the clusters and work communities from which the neighborhoods are made, there is a need for smaller and more private kinds of common land shared by a few work groups or a few families. This common land, in fact, forms the very heart and soul of any cluster. Once it is defined, the individual buildings of the cluster form around it - [[House Cluster (37)]], [[Row Houses (38)]], [[Housing Hill (39)]], [[Work Community (41)]].

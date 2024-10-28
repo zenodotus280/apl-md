@@ -7,7 +7,7 @@
 ### Related Patterns
 ... this pattern helps the gradual evolution of [[Mosaic of Subcultures (8)]], by placing families and work together, and so intensifying the emergence of highly differentiated subcultures, each with its own character...
 
-The scattered work itself can take a great variety of forms. It an occur in belts of industry, where it is essential for an indsutry to occupy an acre or more between subcultures -- [[Subculture Boundary (13)]], [[Industrial Ribbon (42)]]; it can occur in work communities, which are scattered among the enighbourhoods -- [[Neighborhood Boundary (15)]], [[Work Community (41)]]; and it can occur in individual workshops, right among the houses -- [[Home Workshop (157)]]. The size of each workshop is limited only by the nature of human groups and the process of self-governance. It is discussed in detail in [[Self-Governing Workshops and Offices (80)]].
+The scattered work itself can take a great variety of forms. It an occur in belts of industry, where it is essential for an industry to occupy an acre or more between subcultures -- [[Subculture Boundary (13)]], [[Industrial Ribbon (42)]]; it can occur in work communities, which are scattered among the neighborhoods -- [[Neighborhood Boundary (15)]], [[Work Community (41)]]; and it can occur in individual workshops, right among the houses -- [[Home Workshop (157)]]. The size of each workshop is limited only by the nature of human groups and the process of self-governance. It is discussed in detail in [[Self-Governing Workshops and Offices (80)]].
 
 ---
 

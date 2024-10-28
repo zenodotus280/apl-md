@@ -1,5 +1,5 @@
 ### Problem
->As the life in a building changes, the need for space shrinks and swells cyclically. The building must be able to adapt to this irregular increase and degrease in the need for space.
+>As the life in a building changes, the need for space shrinks and swells cyclically. The building must be able to adapt to this irregular increase and decrease in the need for space.
 
 ### Solution
 >Make at least some part of the building rentable: give it a private entrance over and above its regular connection to the rest of the house. Make sure that the regular entrance can be easily closed off without destroying the circulation in the house, and make sure that a bathroom can be directly reached from this room without having to go through the main house.
