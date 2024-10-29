@@ -3,7 +3,7 @@
 
 ### Solution
 >Encourage a birth and death process for towns within the region, which gradually has these effects:
->1. The population is even distributed in terms of different sizes -- for example, one town with 1,000,000 people, 10 towns wit 100,000 people each, 100 towns with 10,000 people each, and 1000 towns wit 100 people each.
+>1. The population is even distributed in terms of different sizes -- for example, one town with 1,000,000 people, 10 towns with 100,000 people each, 100 towns with 10,000 people each, and 1000 towns with 100 people each.
 >2. These towns are distributed in space in such a way that within each size category the towns are homogeneously distributed all across the region.
 
 ### Related Patterns
