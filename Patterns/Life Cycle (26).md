@@ -23,6 +23,6 @@ The rites of passage are provided for, most concretely, by [[Holy Ground (66)]].
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 139.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Community-Policies

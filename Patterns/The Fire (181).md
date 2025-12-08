@@ -12,6 +12,6 @@ Even where the traditional open fireplace is obsolete for heating or where fuel 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 838.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Minor-Rooms

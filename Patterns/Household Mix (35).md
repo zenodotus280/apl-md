@@ -12,6 +12,6 @@ Make especially sure there are provisions for old people in every neighborhood -
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 188.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Housing-Clusters

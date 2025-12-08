@@ -12,6 +12,6 @@ In our own building system, we find it is worth putting on a light skim coat of 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1096.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Construction-Patterns/Interior-Details

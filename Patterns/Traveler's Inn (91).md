@@ -12,6 +12,6 @@ The heart of the conviviality is the central area, where everyone can meet and t
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 448.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Social-Institutions---Local-Gathering

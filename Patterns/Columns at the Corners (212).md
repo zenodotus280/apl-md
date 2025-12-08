@@ -14,6 +14,6 @@ These columns will not only guide your mental image of the building, they will a
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 989.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Construction-Patterns/Structural-Layout

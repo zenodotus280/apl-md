@@ -17,6 +17,6 @@ Put a [[Perimeter Beams (217)]] on all four sides of every vault, along the top 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 978.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Construction-Patterns/Structural-Layout

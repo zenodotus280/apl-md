@@ -13,6 +13,6 @@ In windows, splay the thickening, to create [[Deep Reveals (223)]]; the form of 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1059.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Construction-Patterns/Fenestration

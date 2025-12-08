@@ -12,6 +12,6 @@ Shape each office in detail, according to [[The Shape of Indoor Space (191)]] gi
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 717.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Building-Patterns/Public-Rooms

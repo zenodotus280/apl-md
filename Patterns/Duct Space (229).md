@@ -12,6 +12,6 @@ Once the duct is in, you can fill up the triangle with lightweight concrete - [[
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1076.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Construction-Patterns/Frame-Adjustments

@@ -12,6 +12,6 @@ Lay the workgroups out with respect to each other so that the distances between 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 701.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Public-Rooms

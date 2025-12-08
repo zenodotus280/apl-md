@@ -12,6 +12,6 @@ Give the workshop a corner where it is especially nice to work - [[Light on Two 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 737.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Building-Patterns/Outbuildings

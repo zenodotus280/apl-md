@@ -12,6 +12,6 @@ The parallel roads are the only *through* roads in a [[Local Transport Areas (11
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 126.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Town-Patterns/Community-Policies

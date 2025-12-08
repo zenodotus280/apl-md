@@ -14,6 +14,6 @@ Fine tune the exact position of each edge, and mullion, and sill, according to y
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1046.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Construction-Patterns/Fenestration

@@ -12,6 +12,6 @@ Natural boundaries can be things like [[The Countryside (7)]], [[Sacred Sites (2
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 75
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Communities

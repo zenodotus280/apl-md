@@ -12,6 +12,6 @@ If possible, arrange the pool as part of a system of natural running water, so t
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 358.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Local-Recreation

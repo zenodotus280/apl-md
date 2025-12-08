@@ -12,6 +12,6 @@ If you have an especially nice fruit tree, make a [[Tree Places (171)]] under it
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 794.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Gardens

@@ -14,6 +14,6 @@ Above all, encourage the formation of seminars and workshops in people's homes -
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 99
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Community-Networking

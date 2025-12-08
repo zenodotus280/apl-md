@@ -12,6 +12,6 @@ Build the racks for bikes to one side of the main entrance, so that the bikes do
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 289.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Local-Networking

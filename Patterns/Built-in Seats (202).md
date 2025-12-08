@@ -12,6 +12,6 @@ Once you decide where to put the seat, make it part of the [[Thick Walls (197)]]
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 924.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Thick-Walls

@@ -13,6 +13,6 @@ If these seats can be made continuous with stairs or building entrances or low w
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1118.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Construction-Patterns/Outdoor-Details

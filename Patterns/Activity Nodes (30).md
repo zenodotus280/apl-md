@@ -12,6 +12,6 @@ Connect those centers which are most dense, with a wider, more important path fo
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 163.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Town-Patterns/Local-Centers

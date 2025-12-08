@@ -12,6 +12,6 @@ Make it low and self-contained if there is room for that - [[Alcoves (179)]] kee
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 833.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Minor-Rooms

@@ -12,6 +12,6 @@ Finish the roof caps any way you want, but don't forget them - [[Ornament (249)]
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1084.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Construction-Patterns/Frame-Adjustments

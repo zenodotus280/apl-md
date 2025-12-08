@@ -16,6 +16,6 @@ Arrange the buildings in the complex to form realms of movement - [[Circulation 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 468.
-> #high-confidence 
+> #APL/confidence/high 
 >
 > #APL/Building-Patterns/Group-of-Buildings

@@ -12,6 +12,6 @@ Connect the different "somethings" to one another with the path system - [[Paths
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 606.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Building-Patterns/Between-the-Buildings

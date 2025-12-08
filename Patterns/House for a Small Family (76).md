@@ -12,6 +12,6 @@ Treat the house, like every house, as a distinct piece of territory - [[Your Own
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 381.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Social-Institutions---Families

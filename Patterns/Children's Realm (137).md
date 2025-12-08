@@ -12,6 +12,6 @@ As you place this swath between the children's beds and the street, place the [[
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 651.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Private-Rooms

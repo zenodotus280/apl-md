@@ -12,6 +12,6 @@ Dancing in the street, food stands, an outdoor room or two, a square where the t
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 298.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Town-Patterns/Community-Recreation

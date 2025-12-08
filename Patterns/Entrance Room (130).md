@@ -12,6 +12,6 @@ Give that part of the entrance which sticks out into the street or garden a phys
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 622.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Light-and-Space

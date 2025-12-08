@@ -12,6 +12,6 @@ Where the light to walk toward is natural light, build seats and alcoves in thos
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 644.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Light-and-Space

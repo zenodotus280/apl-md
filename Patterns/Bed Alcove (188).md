@@ -13,6 +13,6 @@ Build the ceiling low - [[Ceiling Height Variety (190)]]; add some storage in th
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 868.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Minor-Rooms

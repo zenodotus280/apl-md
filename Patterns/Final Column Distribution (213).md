@@ -25,6 +25,6 @@ Column thicknesses must be proportional to wall thicknesses, so that the thinnes
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 995.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Construction-Patterns/Structural-Layout

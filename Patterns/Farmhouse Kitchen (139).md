@@ -12,6 +12,6 @@ Give the kitchen [[Light on Two Sides of Every Room (159)]]. When you place the 
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 660.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Private-Rooms

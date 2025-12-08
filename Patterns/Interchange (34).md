@@ -16,6 +16,6 @@ Recognize that the creation of workplaces around every interchange contributes t
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 183.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Town-Patterns/Local-Centers

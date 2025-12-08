@@ -12,6 +12,6 @@ Test the height before you build it, in place - [[Natural Doors and Windows (221
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1056.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Construction-Patterns/Fenestration

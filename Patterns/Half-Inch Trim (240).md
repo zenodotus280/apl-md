@@ -12,6 +12,6 @@ In many cases, you may be able to use the trim to form the ornaments - [[Ornamen
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1112.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Construction-Patterns/Interior-Details

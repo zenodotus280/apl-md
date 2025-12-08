@@ -12,6 +12,6 @@ Embellish the density and feeling of life with areas at the edge which are espec
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 596.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Between-the-Buildings

@@ -12,6 +12,6 @@ Use the canvas awnings, especially, to filter light over those windows which fac
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1128.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Construction-Patterns/Outdoor-Details

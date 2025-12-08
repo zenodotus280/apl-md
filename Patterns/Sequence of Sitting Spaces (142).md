@@ -12,6 +12,6 @@ Put the most formal sitting spaces in the [[Common Areas at the Heart (129)]] an
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 673.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Private-Rooms

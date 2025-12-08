@@ -12,6 +12,6 @@ Again, treat the house as a distinct piece of territory, in some fashion owned b
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 385.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Social-Institutions---Families

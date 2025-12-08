@@ -14,6 +14,6 @@ Light is critical. The bays of this kind of workspace must either be free-standi
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 690.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Building-Patterns/Public-Rooms

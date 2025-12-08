@@ -12,6 +12,6 @@ Plant vegetables and orchards on the terraces - [[Vegetable Garden (177)]], [[Fr
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 790.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Gardens

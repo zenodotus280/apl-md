@@ -12,6 +12,6 @@ Give the university a [[Promenade (31)]] as its central crossroads; and around t
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 231.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Town-Patterns/Work-Communities

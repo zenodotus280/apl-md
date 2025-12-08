@@ -12,6 +12,6 @@ Use the long thin plan to help shape outdoor space on the site - [[Positive Outd
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 535.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Siting-the-Buildings

@@ -12,6 +12,6 @@ Where the thickness is 3 or 4. feet, build the thickness and the volume of the w
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 908.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Thick-Walls

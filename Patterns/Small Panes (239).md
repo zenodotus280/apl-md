@@ -12,6 +12,6 @@ In certain cases you may want to make the small panes even finer near the window
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1108.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Construction-Patterns/Interior-Details

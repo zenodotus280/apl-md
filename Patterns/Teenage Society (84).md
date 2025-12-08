@@ -12,6 +12,6 @@ Provide one central place which houses social functions, and a directory of clas
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 416.
-> #low-confidence
+> #APL/confidence/low
 >
 > #APL/Town-Patterns/Social-Institutions---Workgroups

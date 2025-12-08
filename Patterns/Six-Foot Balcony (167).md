@@ -12,6 +12,6 @@ Enclose the balcony with a low wall - [[Sitting Wall (243)]], heavy columns - [[
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 781.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Liminal-Space

@@ -12,6 +12,6 @@ Place entrances and exits of the parking lots in such a way that they fit natura
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 503.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Group-of-Buildings

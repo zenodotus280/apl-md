@@ -12,6 +12,6 @@ Place [[Wings of Light (107)]] to form the spaces. Use open trellised walks, wal
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 517.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Siting-the-Buildings

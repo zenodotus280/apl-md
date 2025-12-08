@@ -12,6 +12,6 @@ Make all the junctions between the local roads three-way T junctions, never four
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 260.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Town-Patterns/Local-Networking

@@ -12,6 +12,6 @@ All the ordinary things in the outdoors - trees, fountains, entrances, gateways,
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 585.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Between-the-Buildings

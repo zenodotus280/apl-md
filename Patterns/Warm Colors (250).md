@@ -12,6 +12,6 @@ This means that yellows, reds, and oranges will often be needed to pick out trim
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 1153.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Construction-Patterns/Ornamentation

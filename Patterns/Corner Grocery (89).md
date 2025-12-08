@@ -12,6 +12,6 @@ Prevent franchises and pass laws which prevent the emergence of those much large
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 440.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Social-Institutions---Local-Gathering

@@ -12,6 +12,6 @@ Elaborate the area around the base of the high place -it is a natural position f
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 315.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Town-Patterns/Community-Recreation

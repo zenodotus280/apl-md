@@ -12,6 +12,6 @@ Give the windows a view toward a garden or the area where children play - [[Wind
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 916.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Thick-Walls

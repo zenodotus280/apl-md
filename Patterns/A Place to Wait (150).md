@@ -12,6 +12,6 @@ The active part might have a window on the street - [[Street Windows (164)]], [[
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 707.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Public-Rooms

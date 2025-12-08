@@ -14,6 +14,6 @@ Give each wing its own roof in such a way that all the wings together form a gre
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 524.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Siting-the-Buildings

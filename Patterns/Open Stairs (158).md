@@ -12,6 +12,6 @@ Where the stair comes down to the ground, make an entrance which helps to repair
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 740.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Outbuildings

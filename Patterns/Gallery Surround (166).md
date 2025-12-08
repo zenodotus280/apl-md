@@ -12,6 +12,6 @@ These places should be an integral part of the building territory, and contain s
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 777.
-> #medium-confidence
+> #APL/confidence/medium
 >
 > #APL/Building-Patterns/Liminal-Space

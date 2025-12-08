@@ -12,6 +12,6 @@ Use this pattern as an antidote to the extremes of "togetherness" created by [[C
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 668.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Private-Rooms

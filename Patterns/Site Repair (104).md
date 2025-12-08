@@ -12,6 +12,6 @@ Above all, leave trees intact and build around them with great care - [[Tree Pla
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 508.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Building-Patterns/Siting-the-Buildings

@@ -10,6 +10,6 @@
 ---
 
 > [!cite]- Alexander, Christopher. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, p. 10.
-> #high-confidence
+> #APL/confidence/high
 >
 > #APL/Town-Patterns/Network-of-Lattices
