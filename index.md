@@ -343,7 +343,7 @@ Go back inside of the building and attach the necessary minor rooms and alcoves 
 186. [[Communal Sleeping (186) | Communal Sleeping]]
 187. [[Marriage Bed (187) | Marriage Bed]]
 188. [[Bed Alcove (188) | Bed Alcove]]
-189. [[Dressing Rooms (189) | Dressing Room]]
+189. [[Dressing Rooms (189) | Dressing Rooms]]
 
 ---
 

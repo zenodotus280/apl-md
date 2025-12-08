@@ -8,7 +8,7 @@
 ### Related Patterns
 ... bed alcoves help to generate the form of [[Bed Cluster (143)]], [[Communal Sleeping (186)]] and [[Marriage Bed (187)]] For children, each alcove also functions as [[A Room of One's Own (141)]], so that even in the smallest house, not only the adults, but every child can have at least a small place to call his own.
 
-Build the ceiling low - [[Ceiling Height Variety (190)]]; add some storage in the walls around the alcove - [[Thick Walls (197)]], [[Open Shelves (200)]], and a window, in a natural position - [[Natural Doors and Windows (221)]]. Perhaps [[Half-Open Wall (193)]] will help to give the alcove the right enclosure. Where space is very tight, combine the bed alcove with [[Dressing Rooms (189)]]. And finally, give each alcove, no matter how small, the characteristics of any indoor space - [[The Shape of Indoor Space (191)]] ...
+Build the ceiling low - [[Ceiling Height Variety (190)]]; add some storage in the walls around the alcove - [[Thick Walls (197)]], [[Open Shelves (200)]], and a window, in a natural position - [[Natural Doors and Windows (221)]]. Perhaps [[Half-Open Wall (193)]] will help to give the alcove the right enclosure. Where space is very tight, combine the bed alcove with [[Dressing Rooms (189)|Dressing Room (189)]]. And finally, give each alcove, no matter how small, the characteristics of any indoor space - [[The Shape of Indoor Space (191)]] ...
 
 ---
 
