@@ -85,7 +85,7 @@ I have another custom Fish shell function (`apl-preview`) to copy the patterns t
 
 ## TODO
 > [!todo]
-> - [ ] update each pattern with hierarchical tags for master categories and sub-categories (only three as an example)
+> - [x] update each pattern with hierarchical tags for master categories and sub-categories (only three as an example)
 >	- [[Independent Regions (1)]]
 >	- [[Building Complex (95)]]
 >	- [[Structure Follows Social Spaces (205)]]

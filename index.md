@@ -165,7 +165,7 @@ The workgroups, including all kinds of workshops and offices and even children's
 80. [[Self-Governing Workshops and Offices (80) | Self-Governing Workshops and Offices]]
 81. [[Small Services Without Red Tape (81) | Small Services Without Red Tape]]
 82. [[Office Connections (82) | Office Connections]]
-83. [[Master and Apprentices (83) | Master and Apprentice]]
+83. [[Master and Apprentices (83) | Master and Apprentices]]
 84. [[Teenage Society (84) | Teenage Society]]
 85. [[Shopfront Schools (85) | Shopfront Schools]]
 86. [[Children's Home (86) | Children's Home]]
@@ -420,7 +420,7 @@ Within the main frame of the building, fix the exact positions for openings -- t
 222. [[Low Sill (222) | Low Sill]]
 223. [[Deep Reveals (223) | Deep Reveals]]
 224. [[Low Doorway (224) | Low Doorway]]
-225. [[Frames as Thickened Edges (225) | Frames and Thickened Edges]]
+225. [[Frames as Thickened Edges (225) | Frames as Thickened Edges]]
 
 ---
 
@@ -428,7 +428,7 @@ Within the main frame of the building, fix the exact positions for openings -- t
 As you build the main frame and its openings, put in the following subsidiary patterns where they are appropriate; 
 
 226. [[Column Place (226) | Column Place]]
-227. [[Column Connections (227) | Column Connection]]
+227. [[Column Connections (227) | Column Connections]]
 228. [[Stair Vault (228) | Stair Vault]]
 229. [[Duct Space (229) | Duct Space]]
 230. [[Radiant Heat (230) | Radiant Heat]]
