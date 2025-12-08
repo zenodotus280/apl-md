@@ -89,5 +89,4 @@ I have another custom Fish shell function (`apl-preview`) to copy the patterns t
 >	- [[Independent Regions (1)]]
 >	- [[Building Complex (95)]]
 >	- [[Structure Follows Social Spaces (205)]]
-> - [ ] Utilize aliases in the *Related Patterns* section so that the patterns read more naturally (as in the original) rather than sticking with the canonical pattern name
 > - [ ] more consistent use use of dashes, ellipses, and other minor formatting/style choices
