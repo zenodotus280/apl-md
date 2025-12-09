@@ -90,3 +90,9 @@ I have another custom Fish shell function (`apl-preview`) to copy the patterns t
 >	- [[Building Complex (95)]]
 >	- [[Structure Follows Social Spaces (205)]]
 > - [ ] more consistent use use of dashes, ellipses, and other minor formatting/style choices
+> - [ ] experiment with "lower caps" as suggested by a [HN reader](https://news.ycombinator.com/item?id=40388200):
+> ```
+> a.internal { text-transformation: lowercase; font-variant: small-caps; background-color: none; }
+> a { // color: omit // font-weight: omit }
+> ```
+
